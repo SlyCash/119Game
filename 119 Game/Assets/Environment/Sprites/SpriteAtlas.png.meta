@@ -1,0 +1,333 @@
+fileFormatVersion: 2
+guid: 40cdca617583ffb4ea6374adc5793b62
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6460368395533782001
+    second: SpriteAtlas_0
+  - first:
+      213: 6875313188632250476
+    second: SpriteAtlas_1
+  - first:
+      213: 7234583761468912955
+    second: SpriteAtlas_2
+  - first:
+      213: -8262991748867391410
+    second: SpriteAtlas_3
+  - first:
+      213: -3018825789789838114
+    second: SpriteAtlas_4
+  - first:
+      213: 2172585217110231533
+    second: SpriteAtlas_5
+  - first:
+      213: -8815059205600961907
+    second: SpriteAtlas_6
+  - first:
+      213: -7444576064390506996
+    second: SpriteAtlas_7
+  - first:
+      213: 1207821204664722783
+    second: SpriteAtlas_8
+  - first:
+      213: -7482595089818226769
+    second: SpriteAtlas_9
+  - first:
+      213: -7263881698557325647
+    second: SpriteAtlas_10
+  - first:
+      213: -4821192350811027162
+    second: SpriteAtlas_11
+  - first:
+      213: -3869741216246091411
+    second: SpriteAtlas_12
+  - first:
+      213: -6913147202214430748
+    second: SpriteAtlas_13
+  - first:
+      213: 2559887565751971924
+    second: SpriteAtlas_14
+  - first:
+      213: 673160796689557253
+    second: SpriteAtlas_15
+  - first:
+      213: -4955526946697255835
+    second: SpriteAtlas_16
+  - first:
+      213: -8741467292000695927
+    second: SpriteAtlas_17
+  - first:
+      213: -6997266836488049200
+    second: SpriteAtlas_18
+  - first:
+      213: -8579496812511856797
+    second: SpriteAtlas_19
+  - first:
+      213: 2298073905629416631
+    second: SpriteAtlas_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SpriteAtlas_0
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 598
+        width: 875
+        height: 432
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f047c0a3c292856a0800000000000000
+      internalID: -6460368395533782001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlas_11
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 137
+        width: 707
+        height: 587
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6290418c91fa71db0800000000000000
+      internalID: -4821192350811027162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlas_17
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 409
+        width: 389
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9894a9cefc110b680800000000000000
+      internalID: -8741467292000695927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlas_18
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 285
+        width: 389
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dd2284a2e6b4ee90800000000000000
+      internalID: -6997266836488049200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlas_19
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 148
+        width: 318
+        height: 248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36772aaea118fe880800000000000000
+      internalID: -8579496812511856797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlas_20
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 148
+        width: 389
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bcc2ac9a0664ef10800000000000000
+      internalID: 2298073905629416631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: d9d3fb8251e3e4b4c8b46e89a9df1416
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      SpriteAtlas_0: -6460368395533782001
+      SpriteAtlas_1: 6875313188632250476
+      SpriteAtlas_10: -7263881698557325647
+      SpriteAtlas_11: -4821192350811027162
+      SpriteAtlas_12: -3869741216246091411
+      SpriteAtlas_13: -6913147202214430748
+      SpriteAtlas_14: 2559887565751971924
+      SpriteAtlas_15: 673160796689557253
+      SpriteAtlas_16: -4955526946697255835
+      SpriteAtlas_17: -8741467292000695927
+      SpriteAtlas_18: -6997266836488049200
+      SpriteAtlas_19: -8579496812511856797
+      SpriteAtlas_2: 7234583761468912955
+      SpriteAtlas_20: 2298073905629416631
+      SpriteAtlas_3: -8262991748867391410
+      SpriteAtlas_4: -3018825789789838114
+      SpriteAtlas_5: 2172585217110231533
+      SpriteAtlas_6: -8815059205600961907
+      SpriteAtlas_7: -7444576064390506996
+      SpriteAtlas_8: 1207821204664722783
+      SpriteAtlas_9: -7482595089818226769
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

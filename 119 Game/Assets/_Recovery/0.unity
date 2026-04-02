@@ -388,8 +388,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 59cfeab0eacaa88448bbe04b27d4a35c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::AutoReload_scene
-  delay: 31
-  NewLevel: Scene_0b
+  delay: 30
+  NewLevel: Scene_1
 --- !u!4 &651515547
 Transform:
   m_ObjectHideFlags: 0
