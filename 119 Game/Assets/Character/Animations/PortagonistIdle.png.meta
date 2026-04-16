@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: 87a3c466aded5d349b93f31806b4e931
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 693612026201942856
+    second: PortagonistIdle_0
+  - first:
+      213: 3554065654631950955
+    second: PortagonistIdle_1
+  - first:
+      213: -5738659458095545155
+    second: PortagonistIdle_2
+  - first:
+      213: -5788859693862629937
+    second: PortagonistIdle_3
+  - first:
+      213: -8870599182288701411
+    second: PortagonistIdle_4
+  - first:
+      213: 6204294122165603419
+    second: PortagonistIdle_5
+  - first:
+      213: 7666506359158681220
+    second: PortagonistIdle_6
+  - first:
+      213: 6065691919694898370
+    second: PortagonistIdle_7
+  - first:
+      213: -4765348445944388911
+    second: PortagonistIdle_8
+  - first:
+      213: -632981552228192827
+    second: PortagonistIdle_9
+  - first:
+      213: -7921644167404821568
+    second: PortagonistIdle_10
+  - first:
+      213: -7481094368923574750
+    second: PortagonistIdle_11
+  - first:
+      213: 2105318195088048649
+    second: PortagonistIdle_12
+  - first:
+      213: -4676547769793452085
+    second: PortagonistIdle_13
+  - first:
+      213: -4781163081515495417
+    second: PortagonistIdle_14
+  - first:
+      213: 4462658597101013257
+    second: PortagonistIdle_15
+  - first:
+      213: 3536831905725411181
+    second: PortagonistIdle_16
+  - first:
+      213: -7899925674157972218
+    second: PortagonistIdle_17
+  - first:
+      213: 696092072732927950
+    second: PortagonistIdle_18
+  - first:
+      213: -8246916458695854371
+    second: PortagonistIdle_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PortagonistIdle_0
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 4346
+        width: 662
+        height: 552
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84ba4b1867430a900800000000000000
+      internalID: 693612026201942856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PortagonistIdle_1
+      rect:
+        serializedVersion: 2
+        x: 1543
+        y: 4346
+        width: 662
+        height: 562
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6ae0c4f1e3925130800000000000000
+      internalID: 3554065654631950955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PortagonistIdle_2
+      rect:
+        serializedVersion: 2
+        x: 2823
+        y: 4346
+        width: 662
+        height: 574
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db48749a0af2c50b0800000000000000
+      internalID: -5738659458095545155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PortagonistIdle_3
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 3626
+        width: 662
+        height: 587
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcdcdb477c6d9afa0800000000000000
+      internalID: -5788859693862629937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PortagonistIdle_4
+      rect:
+        serializedVersion: 2
+        x: 1543
+        y: 3626
+        width: 662
+        height: 590
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d18bfcaca0d45e480800000000000000
+      internalID: -8870599182288701411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PortagonistIdle_5
+      rect:
+        serializedVersion: 2
+        x: 2823
+        y: 3626
+        width: 662
+        height: 591
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5c89b1e1a41a1650800000000000000
+      internalID: 6204294122165603419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PortagonistIdle_6
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 2906
+        width: 662
+        height: 591
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48e2ded2ae6e46a60800000000000000
+      internalID: 7666506359158681220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PortagonistIdle_7
+      rect:
+        serializedVersion: 2
+        x: 1543
+        y: 2906
+        width: 662
+        height: 590
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c42f5ed9aaad2450800000000000000
+      internalID: 6065691919694898370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PortagonistIdle_8
+      rect:
+        serializedVersion: 2
+        x: 2823
+        y: 2906
+        width: 662
+        height: 587
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d2668816d41eddb0800000000000000
+      internalID: -4765348445944388911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PortagonistIdle_9
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 2186
+        width: 662
+        height: 574
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cd2016c1a23737f0800000000000000
+      internalID: -632981552228192827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PortagonistIdle_10
+      rect:
+        serializedVersion: 2
+        x: 1543
+        y: 2186
+        width: 662
+        height: 562
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c36ac4b99aa01290800000000000000
+      internalID: -7921644167404821568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PortagonistIdle_11
+      rect:
+        serializedVersion: 2
+        x: 2823
+        y: 2186
+        width: 662
+        height: 552
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22e9229de40dd2890800000000000000
+      internalID: -7481094368923574750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PortagonistIdle_12
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 1466
+        width: 662
+        height: 552
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 902c3657eb7973d10800000000000000
+      internalID: 2105318195088048649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PortagonistIdle_13
+      rect:
+        serializedVersion: 2
+        x: 1543
+        y: 1466
+        width: 662
+        height: 552
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc7e05ea490991fb0800000000000000
+      internalID: -4676547769793452085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PortagonistIdle_14
+      rect:
+        serializedVersion: 2
+        x: 2823
+        y: 1466
+        width: 662
+        height: 552
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7009e015285e5adb0800000000000000
+      internalID: -4781163081515495417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PortagonistIdle_15
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 746
+        width: 662
+        height: 552
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9098c02995c8eed30800000000000000
+      internalID: 4462658597101013257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PortagonistIdle_16
+      rect:
+        serializedVersion: 2
+        x: 1543
+        y: 746
+        width: 662
+        height: 552
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6fe70b11e9551130800000000000000
+      internalID: 3536831905725411181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PortagonistIdle_17
+      rect:
+        serializedVersion: 2
+        x: 2823
+        y: 746
+        width: 662
+        height: 552
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60563d77473dd5290800000000000000
+      internalID: -7899925674157972218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PortagonistIdle_18
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 26
+        width: 662
+        height: 552
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec726365d0409a900800000000000000
+      internalID: 696092072732927950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PortagonistIdle_19
+      rect:
+        serializedVersion: 2
+        x: 1543
+        y: 26
+        width: 662
+        height: 552
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd67c13cc211d8d80800000000000000
+      internalID: -8246916458695854371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PortagonistIdle_0: 693612026201942856
+      PortagonistIdle_1: 3554065654631950955
+      PortagonistIdle_10: -7921644167404821568
+      PortagonistIdle_11: -7481094368923574750
+      PortagonistIdle_12: 2105318195088048649
+      PortagonistIdle_13: -4676547769793452085
+      PortagonistIdle_14: -4781163081515495417
+      PortagonistIdle_15: 4462658597101013257
+      PortagonistIdle_16: 3536831905725411181
+      PortagonistIdle_17: -7899925674157972218
+      PortagonistIdle_18: 696092072732927950
+      PortagonistIdle_19: -8246916458695854371
+      PortagonistIdle_2: -5738659458095545155
+      PortagonistIdle_3: -5788859693862629937
+      PortagonistIdle_4: -8870599182288701411
+      PortagonistIdle_5: 6204294122165603419
+      PortagonistIdle_6: 7666506359158681220
+      PortagonistIdle_7: 6065691919694898370
+      PortagonistIdle_8: -4765348445944388911
+      PortagonistIdle_9: -632981552228192827
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,559 @@
+fileFormatVersion: 2
+guid: bdd6f086d87c467499facae191edf3c1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6197913704009531470
+    second: SheepWalkCycle_0
+  - first:
+      213: 6888865863000738840
+    second: SheepWalkCycle_1
+  - first:
+      213: 7568366231049347269
+    second: SheepWalkCycle_2
+  - first:
+      213: 2614275336209439877
+    second: SheepWalkCycle_3
+  - first:
+      213: -2078114953840811789
+    second: SheepWalkCycle_4
+  - first:
+      213: 6498817237989846520
+    second: SheepWalkCycle_5
+  - first:
+      213: 1490452312798267178
+    second: SheepWalkCycle_6
+  - first:
+      213: 6635867633036140355
+    second: SheepWalkCycle_7
+  - first:
+      213: 8007334630850047874
+    second: SheepWalkCycle_8
+  - first:
+      213: -6422011245858222041
+    second: SheepWalkCycle_9
+  - first:
+      213: -4019794398854505112
+    second: SheepWalkCycle_10
+  - first:
+      213: -733168890313533287
+    second: SheepWalkCycle_11
+  - first:
+      213: -903977044342375041
+    second: SheepWalkCycle_12
+  - first:
+      213: 3336056903594500932
+    second: SheepWalkCycle_13
+  - first:
+      213: 7859484782022824560
+    second: SheepWalkCycle_14
+  - first:
+      213: -3934408096133696175
+    second: SheepWalkCycle_15
+  - first:
+      213: 6570687041337318853
+    second: SheepWalkCycle_16
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SheepWalkCycle_0
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 3715
+        width: 650
+        height: 481
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4083040da9630650800000000000000
+      internalID: 6197913704009531470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SheepWalkCycle_1
+      rect:
+        serializedVersion: 2
+        x: 1596
+        y: 3715
+        width: 650
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81c497de00b2a9f50800000000000000
+      internalID: 6888865863000738840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SheepWalkCycle_2
+      rect:
+        serializedVersion: 2
+        x: 2876
+        y: 3715
+        width: 650
+        height: 467
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c022cbfcfc380960800000000000000
+      internalID: 7568366231049347269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SheepWalkCycle_3
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 2995
+        width: 650
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58c14d73195c74420800000000000000
+      internalID: 2614275336209439877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SheepWalkCycle_4
+      rect:
+        serializedVersion: 2
+        x: 1596
+        y: 2997
+        width: 650
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f024e5b57d0923e0800000000000000
+      internalID: -2078114953840811789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SheepWalkCycle_5
+      rect:
+        serializedVersion: 2
+        x: 2876
+        y: 2996
+        width: 650
+        height: 458
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fde19288df603a50800000000000000
+      internalID: 6498817237989846520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SheepWalkCycle_6
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 2276
+        width: 650
+        height: 466
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2700035b762fa410800000000000000
+      internalID: 1490452312798267178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SheepWalkCycle_7
+      rect:
+        serializedVersion: 2
+        x: 1596
+        y: 2276
+        width: 650
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34f91a33476571c50800000000000000
+      internalID: 6635867633036140355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SheepWalkCycle_8
+      rect:
+        serializedVersion: 2
+        x: 2876
+        y: 2275
+        width: 650
+        height: 481
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28f208d0c64cf1f60800000000000000
+      internalID: 8007334630850047874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SheepWalkCycle_9
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 1555
+        width: 650
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7209e031cce60e6a0800000000000000
+      internalID: -6422011245858222041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SheepWalkCycle_10
+      rect:
+        serializedVersion: 2
+        x: 1596
+        y: 1554
+        width: 650
+        height: 468
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86d1c22ca42d638c0800000000000000
+      internalID: -4019794398854505112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SheepWalkCycle_11
+      rect:
+        serializedVersion: 2
+        x: 2876
+        y: 1554
+        width: 650
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9989e7c57c243d5f0800000000000000
+      internalID: -733168890313533287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SheepWalkCycle_12
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 831
+        width: 650
+        height: 456
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7d7ddaeaad6473f0800000000000000
+      internalID: -903977044342375041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SheepWalkCycle_13
+      rect:
+        serializedVersion: 2
+        x: 1596
+        y: 833
+        width: 650
+        height: 461
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4436d31241e0c4e20800000000000000
+      internalID: 3336056903594500932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SheepWalkCycle_14
+      rect:
+        serializedVersion: 2
+        x: 2876
+        y: 832
+        width: 650
+        height: 470
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0721f0694cf721d60800000000000000
+      internalID: 7859484782022824560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SheepWalkCycle_15
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 113
+        width: 650
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 155b7849eac2669c0800000000000000
+      internalID: -3934408096133696175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SheepWalkCycle_16
+      rect:
+        serializedVersion: 2
+        x: 1596
+        y: 115
+        width: 650
+        height: 481
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cd5c251d05cf2b50800000000000000
+      internalID: 6570687041337318853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      SheepWalkCycle_0: 6197913704009531470
+      SheepWalkCycle_1: 6888865863000738840
+      SheepWalkCycle_10: -4019794398854505112
+      SheepWalkCycle_11: -733168890313533287
+      SheepWalkCycle_12: -903977044342375041
+      SheepWalkCycle_13: 3336056903594500932
+      SheepWalkCycle_14: 7859484782022824560
+      SheepWalkCycle_15: -3934408096133696175
+      SheepWalkCycle_16: 6570687041337318853
+      SheepWalkCycle_2: 7568366231049347269
+      SheepWalkCycle_3: 2614275336209439877
+      SheepWalkCycle_4: -2078114953840811789
+      SheepWalkCycle_5: 6498817237989846520
+      SheepWalkCycle_6: 1490452312798267178
+      SheepWalkCycle_7: 6635867633036140355
+      SheepWalkCycle_8: 8007334630850047874
+      SheepWalkCycle_9: -6422011245858222041
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

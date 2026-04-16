@@ -1,0 +1,455 @@
+fileFormatVersion: 2
+guid: 3d5a990bcbe88e44cbc2dacb19d7c719
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1999934777196751746
+    second: ProtagonistDeath_0
+  - first:
+      213: -2890817003654756533
+    second: ProtagonistDeath_1
+  - first:
+      213: -9163950682880133687
+    second: ProtagonistDeath_2
+  - first:
+      213: -384166536741618876
+    second: ProtagonistDeath_3
+  - first:
+      213: -7580598001066210696
+    second: ProtagonistDeath_4
+  - first:
+      213: 8877237680770161386
+    second: ProtagonistDeath_5
+  - first:
+      213: -7295628771299207575
+    second: ProtagonistDeath_6
+  - first:
+      213: -6684311356397305806
+    second: ProtagonistDeath_7
+  - first:
+      213: 6167673701797333789
+    second: ProtagonistDeath_8
+  - first:
+      213: 2770092561927901443
+    second: ProtagonistDeath_9
+  - first:
+      213: 5358000240724996331
+    second: ProtagonistDeath_10
+  - first:
+      213: -3016473030708847040
+    second: ProtagonistDeath_11
+  - first:
+      213: 8793079795969161213
+    second: ProtagonistDeath_12
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ProtagonistDeath_0
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 2905
+        width: 665
+        height: 555
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28b23c0751231cb10800000000000000
+      internalID: 1999934777196751746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtagonistDeath_1
+      rect:
+        serializedVersion: 2
+        x: 1541
+        y: 2905
+        width: 678
+        height: 555
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b47cf7a5041c1e7d0800000000000000
+      internalID: -2890817003654756533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtagonistDeath_2
+      rect:
+        serializedVersion: 2
+        x: 2821
+        y: 2905
+        width: 689
+        height: 555
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c53bb7186b13d080800000000000000
+      internalID: -9163950682880133687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtagonistDeath_3
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 2185
+        width: 693
+        height: 555
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44b7ceaf19a2baaf0800000000000000
+      internalID: -384166536741618876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtagonistDeath_4
+      rect:
+        serializedVersion: 2
+        x: 1541
+        y: 2185
+        width: 681
+        height: 555
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87a8961284e4cc690800000000000000
+      internalID: -7580598001066210696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtagonistDeath_5
+      rect:
+        serializedVersion: 2
+        x: 2822
+        y: 2185
+        width: 711
+        height: 554
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aea940513a8423b70800000000000000
+      internalID: 8877237680770161386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtagonistDeath_6
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 1465
+        width: 722
+        height: 554
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96657915948b0ca90800000000000000
+      internalID: -7295628771299207575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtagonistDeath_7
+      rect:
+        serializedVersion: 2
+        x: 1542
+        y: 1465
+        width: 722
+        height: 554
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23044d18c3e8c33a0800000000000000
+      internalID: -6684311356397305806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtagonistDeath_8
+      rect:
+        serializedVersion: 2
+        x: 2822
+        y: 1465
+        width: 722
+        height: 554
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1b0626dd8af79550800000000000000
+      internalID: 6167673701797333789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtagonistDeath_9
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 745
+        width: 722
+        height: 554
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3011aac2288517620800000000000000
+      internalID: 2770092561927901443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtagonistDeath_10
+      rect:
+        serializedVersion: 2
+        x: 1542
+        y: 745
+        width: 722
+        height: 554
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be0fedeb4d07b5a40800000000000000
+      internalID: 5358000240724996331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtagonistDeath_11
+      rect:
+        serializedVersion: 2
+        x: 2822
+        y: 745
+        width: 722
+        height: 554
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04e9d02b2c55326d0800000000000000
+      internalID: -3016473030708847040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtagonistDeath_12
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 25
+        width: 722
+        height: 554
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df7f7689c7b470a70800000000000000
+      internalID: 8793079795969161213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ProtagonistDeath_0: 1999934777196751746
+      ProtagonistDeath_1: -2890817003654756533
+      ProtagonistDeath_10: 5358000240724996331
+      ProtagonistDeath_11: -3016473030708847040
+      ProtagonistDeath_12: 8793079795969161213
+      ProtagonistDeath_2: -9163950682880133687
+      ProtagonistDeath_3: -384166536741618876
+      ProtagonistDeath_4: -7580598001066210696
+      ProtagonistDeath_5: 8877237680770161386
+      ProtagonistDeath_6: -7295628771299207575
+      ProtagonistDeath_7: -6684311356397305806
+      ProtagonistDeath_8: 6167673701797333789
+      ProtagonistDeath_9: 2770092561927901443
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

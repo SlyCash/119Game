@@ -1,0 +1,429 @@
+fileFormatVersion: 2
+guid: 16887ce18de3f564da092c4f77dbadde
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 319627454063220395
+    second: ProtagonistJump_0
+  - first:
+      213: 1445838637233534048
+    second: ProtagonistJump_1
+  - first:
+      213: -1953784964885124102
+    second: ProtagonistJump_2
+  - first:
+      213: 167870605068888556
+    second: ProtagonistJump_3
+  - first:
+      213: -7925295084694721520
+    second: ProtagonistJump_4
+  - first:
+      213: -6232640174675634900
+    second: ProtagonistJump_5
+  - first:
+      213: 5062082957735335055
+    second: ProtagonistJump_6
+  - first:
+      213: 6353417576301264570
+    second: ProtagonistJump_7
+  - first:
+      213: -4863337950488791821
+    second: ProtagonistJump_8
+  - first:
+      213: -358384325211611184
+    second: ProtagonistJump_9
+  - first:
+      213: 8212302226875385458
+    second: ProtagonistJump_10
+  - first:
+      213: -2772798920061505889
+    second: ProtagonistJump_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ProtagonistJump_0
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 2186
+        width: 659
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba696ebd97b8f6400800000000000000
+      internalID: 319627454063220395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtagonistJump_1
+      rect:
+        serializedVersion: 2
+        x: 1545
+        y: 2180
+        width: 659
+        height: 547
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 064f6d68496a01410800000000000000
+      internalID: 1445838637233534048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtagonistJump_2
+      rect:
+        serializedVersion: 2
+        x: 2825
+        y: 2183
+        width: 659
+        height: 534
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afbe5801de2c2e4e0800000000000000
+      internalID: -1953784964885124102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtagonistJump_3
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 1470
+        width: 659
+        height: 518
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce96c570d65645200800000000000000
+      internalID: 167870605068888556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtagonistJump_4
+      rect:
+        serializedVersion: 2
+        x: 1545
+        y: 1467
+        width: 659
+        height: 525
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01c2f984c12b30290800000000000000
+      internalID: -7925295084694721520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtagonistJump_5
+      rect:
+        serializedVersion: 2
+        x: 2825
+        y: 1464
+        width: 659
+        height: 532
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2551a778c63189a0800000000000000
+      internalID: -6232640174675634900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtagonistJump_6
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 742
+        width: 659
+        height: 538
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f849f5741a1204640800000000000000
+      internalID: 5062082957735335055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtagonistJump_7
+      rect:
+        serializedVersion: 2
+        x: 1545
+        y: 740
+        width: 659
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abef821bf9fdb2850800000000000000
+      internalID: 6353417576301264570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtagonistJump_8
+      rect:
+        serializedVersion: 2
+        x: 2825
+        y: 739
+        width: 659
+        height: 549
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f4707ea6e3f18cb0800000000000000
+      internalID: -4863337950488791821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtagonistJump_9
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 20
+        width: 659
+        height: 552
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0df91b2ea53c60bf0800000000000000
+      internalID: -358384325211611184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtagonistJump_10
+      rect:
+        serializedVersion: 2
+        x: 1545
+        y: 23
+        width: 659
+        height: 553
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2768e0d5d55f7f170800000000000000
+      internalID: 8212302226875385458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtagonistJump_11
+      rect:
+        serializedVersion: 2
+        x: 2825
+        y: 26
+        width: 659
+        height: 554
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9ea528b21a0589d0800000000000000
+      internalID: -2772798920061505889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ProtagonistJump_0: 319627454063220395
+      ProtagonistJump_1: 1445838637233534048
+      ProtagonistJump_10: 8212302226875385458
+      ProtagonistJump_11: -2772798920061505889
+      ProtagonistJump_2: -1953784964885124102
+      ProtagonistJump_3: 167870605068888556
+      ProtagonistJump_4: -7925295084694721520
+      ProtagonistJump_5: -6232640174675634900
+      ProtagonistJump_6: 5062082957735335055
+      ProtagonistJump_7: 6353417576301264570
+      ProtagonistJump_8: -4863337950488791821
+      ProtagonistJump_9: -358384325211611184
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

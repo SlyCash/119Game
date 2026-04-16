@@ -1,0 +1,455 @@
+fileFormatVersion: 2
+guid: cda86bee583ce064594d87975e6d8a43
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7033393201811804812
+    second: ProtagonistCelebration_0
+  - first:
+      213: -3392341782727986015
+    second: ProtagonistCelebration_1
+  - first:
+      213: 447330957914790067
+    second: ProtagonistCelebration_2
+  - first:
+      213: 4582818435528524658
+    second: ProtagonistCelebration_3
+  - first:
+      213: 5721896041735078768
+    second: ProtagonistCelebration_4
+  - first:
+      213: 3713313825377200936
+    second: ProtagonistCelebration_5
+  - first:
+      213: 2989570104436595693
+    second: ProtagonistCelebration_6
+  - first:
+      213: 2105507129665582348
+    second: ProtagonistCelebration_7
+  - first:
+      213: 9202412111522110309
+    second: ProtagonistCelebration_8
+  - first:
+      213: 6375709393302174471
+    second: ProtagonistCelebration_9
+  - first:
+      213: -1872074298933239648
+    second: ProtagonistCelebration_10
+  - first:
+      213: 7384426951759925660
+    second: ProtagonistCelebration_11
+  - first:
+      213: 3532449915357041192
+    second: ProtagonistCelebration_12
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ProtagonistCelebration_0
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 2906
+        width: 659
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47d2c50c52e546e90800000000000000
+      internalID: -7033393201811804812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtagonistCelebration_1
+      rect:
+        serializedVersion: 2
+        x: 1545
+        y: 2906
+        width: 661
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a478cb3f1bfbe0d0800000000000000
+      internalID: -3392341782727986015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtagonistCelebration_2
+      rect:
+        serializedVersion: 2
+        x: 2825
+        y: 2906
+        width: 664
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b8db8bd22d353600800000000000000
+      internalID: 447330957914790067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtagonistCelebration_3
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 2186
+        width: 665
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2730ac71611799f30800000000000000
+      internalID: 4582818435528524658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtagonistCelebration_4
+      rect:
+        serializedVersion: 2
+        x: 1545
+        y: 2186
+        width: 665
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07345515222486f40800000000000000
+      internalID: 5721896041735078768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtagonistCelebration_5
+      rect:
+        serializedVersion: 2
+        x: 2825
+        y: 2186
+        width: 667
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82ba72d0047588330800000000000000
+      internalID: 3713313825377200936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtagonistCelebration_6
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 1466
+        width: 668
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deb121aab261d7920800000000000000
+      internalID: 2989570104436595693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtagonistCelebration_7
+      rect:
+        serializedVersion: 2
+        x: 1545
+        y: 1466
+        width: 667
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c05f4c73493483d10800000000000000
+      internalID: 2105507129665582348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtagonistCelebration_8
+      rect:
+        serializedVersion: 2
+        x: 2825
+        y: 1466
+        width: 666
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56b17081f0985bf70800000000000000
+      internalID: 9202412111522110309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtagonistCelebration_9
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 746
+        width: 666
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70bb5eac9e11b7850800000000000000
+      internalID: 6375709393302174471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtagonistCelebration_10
+      rect:
+        serializedVersion: 2
+        x: 1545
+        y: 746
+        width: 666
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a022f2085e0506e0800000000000000
+      internalID: -1872074298933239648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtagonistCelebration_11
+      rect:
+        serializedVersion: 2
+        x: 2825
+        y: 746
+        width: 666
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9198713031ca7660800000000000000
+      internalID: 7384426951759925660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtagonistCelebration_12
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 26
+        width: 666
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82217b77b78c50130800000000000000
+      internalID: 3532449915357041192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ProtagonistCelebration_0: -7033393201811804812
+      ProtagonistCelebration_1: -3392341782727986015
+      ProtagonistCelebration_10: -1872074298933239648
+      ProtagonistCelebration_11: 7384426951759925660
+      ProtagonistCelebration_12: 3532449915357041192
+      ProtagonistCelebration_2: 447330957914790067
+      ProtagonistCelebration_3: 4582818435528524658
+      ProtagonistCelebration_4: 5721896041735078768
+      ProtagonistCelebration_5: 3713313825377200936
+      ProtagonistCelebration_6: 2989570104436595693
+      ProtagonistCelebration_7: 2105507129665582348
+      ProtagonistCelebration_8: 9202412111522110309
+      ProtagonistCelebration_9: 6375709393302174471
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

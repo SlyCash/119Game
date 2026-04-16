@@ -1,0 +1,455 @@
+fileFormatVersion: 2
+guid: d0ba6f8fc5593e24888f1354c7a32778
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4716435112683772313
+    second: SheepDeath_0
+  - first:
+      213: 2317767908703138220
+    second: SheepDeath_1
+  - first:
+      213: -6712653310517295314
+    second: SheepDeath_2
+  - first:
+      213: 7190931172612438135
+    second: SheepDeath_3
+  - first:
+      213: -2580225523778507254
+    second: SheepDeath_4
+  - first:
+      213: -451100728771758038
+    second: SheepDeath_5
+  - first:
+      213: -7780498207276975912
+    second: SheepDeath_6
+  - first:
+      213: 7189745952421769155
+    second: SheepDeath_7
+  - first:
+      213: 3979604204430557430
+    second: SheepDeath_8
+  - first:
+      213: -8440426547155766752
+    second: SheepDeath_9
+  - first:
+      213: -6621046344357689765
+    second: SheepDeath_10
+  - first:
+      213: -6493143658937620115
+    second: SheepDeath_11
+  - first:
+      213: -6736614327248140660
+    second: SheepDeath_12
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SheepDeath_0
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 2995
+        width: 650
+        height: 481
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 766ed46f04bdb8eb0800000000000000
+      internalID: -4716435112683772313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SheepDeath_1
+      rect:
+        serializedVersion: 2
+        x: 1587
+        y: 2995
+        width: 659
+        height: 484
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca1fc0602ad5a2020800000000000000
+      internalID: 2317767908703138220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SheepDeath_2
+      rect:
+        serializedVersion: 2
+        x: 2857
+        y: 2995
+        width: 669
+        height: 469
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e274446116dd7d2a0800000000000000
+      internalID: -6712653310517295314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SheepDeath_3
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 2275
+        width: 679
+        height: 447
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 778f8d36dc15bc360800000000000000
+      internalID: 7190931172612438135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SheepDeath_4
+      rect:
+        serializedVersion: 2
+        x: 1580
+        y: 2275
+        width: 666
+        height: 416
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0e29c68e82313cd0800000000000000
+      internalID: -2580225523778507254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SheepDeath_5
+      rect:
+        serializedVersion: 2
+        x: 2852
+        y: 2275
+        width: 674
+        height: 390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a28b3a7f64e5db9f0800000000000000
+      internalID: -451100728771758038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SheepDeath_6
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 1555
+        width: 676
+        height: 390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d831b37a1e160490800000000000000
+      internalID: -7780498207276975912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SheepDeath_7
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 1555
+        width: 678
+        height: 390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cfe66fc9db17c360800000000000000
+      internalID: 7189745952421769155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SheepDeath_8
+      rect:
+        serializedVersion: 2
+        x: 2848
+        y: 1555
+        width: 678
+        height: 390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f00cb760f46a3730800000000000000
+      internalID: 3979604204430557430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SheepDeath_9
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 835
+        width: 671
+        height: 390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 022f00056c49dda80800000000000000
+      internalID: -8440426547155766752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SheepDeath_10
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 835
+        width: 671
+        height: 390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b56492bfd615d14a0800000000000000
+      internalID: -6621046344357689765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SheepDeath_11
+      rect:
+        serializedVersion: 2
+        x: 2855
+        y: 835
+        width: 671
+        height: 390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d69617d8e38b3e5a0800000000000000
+      internalID: -6493143658937620115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SheepDeath_12
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 115
+        width: 671
+        height: 390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c86419326fcb282a0800000000000000
+      internalID: -6736614327248140660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      SheepDeath_0: -4716435112683772313
+      SheepDeath_1: 2317767908703138220
+      SheepDeath_10: -6621046344357689765
+      SheepDeath_11: -6493143658937620115
+      SheepDeath_12: -6736614327248140660
+      SheepDeath_2: -6712653310517295314
+      SheepDeath_3: 7190931172612438135
+      SheepDeath_4: -2580225523778507254
+      SheepDeath_5: -451100728771758038
+      SheepDeath_6: -7780498207276975912
+      SheepDeath_7: 7189745952421769155
+      SheepDeath_8: 3979604204430557430
+      SheepDeath_9: -8440426547155766752
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
