@@ -87,7 +87,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 575
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -139,12 +139,12 @@ TextureImporter:
       name: ProtagonistCelebration_0
       rect:
         serializedVersion: 2
-        x: 265
-        y: 2906
-        width: 659
-        height: 550
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 0
+        y: 2880
+        width: 1280
+        height: 720
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -161,12 +161,12 @@ TextureImporter:
       name: ProtagonistCelebration_1
       rect:
         serializedVersion: 2
-        x: 1545
-        y: 2906
-        width: 661
-        height: 550
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1280
+        y: 2880
+        width: 1280
+        height: 720
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -183,12 +183,12 @@ TextureImporter:
       name: ProtagonistCelebration_2
       rect:
         serializedVersion: 2
-        x: 2825
-        y: 2906
-        width: 664
-        height: 550
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 2560
+        y: 2880
+        width: 1280
+        height: 720
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -205,12 +205,12 @@ TextureImporter:
       name: ProtagonistCelebration_3
       rect:
         serializedVersion: 2
-        x: 265
-        y: 2186
-        width: 665
-        height: 550
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 0
+        y: 2160
+        width: 1280
+        height: 720
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -227,12 +227,12 @@ TextureImporter:
       name: ProtagonistCelebration_4
       rect:
         serializedVersion: 2
-        x: 1545
-        y: 2186
-        width: 665
-        height: 550
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1280
+        y: 2160
+        width: 1280
+        height: 720
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -249,12 +249,12 @@ TextureImporter:
       name: ProtagonistCelebration_5
       rect:
         serializedVersion: 2
-        x: 2825
-        y: 2186
-        width: 667
-        height: 550
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 2560
+        y: 2160
+        width: 1280
+        height: 720
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -271,12 +271,12 @@ TextureImporter:
       name: ProtagonistCelebration_6
       rect:
         serializedVersion: 2
-        x: 265
-        y: 1466
-        width: 668
-        height: 550
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 0
+        y: 1440
+        width: 1280
+        height: 720
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -293,12 +293,12 @@ TextureImporter:
       name: ProtagonistCelebration_7
       rect:
         serializedVersion: 2
-        x: 1545
-        y: 1466
-        width: 667
-        height: 550
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1280
+        y: 1440
+        width: 1280
+        height: 720
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -315,12 +315,12 @@ TextureImporter:
       name: ProtagonistCelebration_8
       rect:
         serializedVersion: 2
-        x: 2825
-        y: 1466
-        width: 666
-        height: 550
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 2560
+        y: 1440
+        width: 1280
+        height: 720
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -337,12 +337,12 @@ TextureImporter:
       name: ProtagonistCelebration_9
       rect:
         serializedVersion: 2
-        x: 265
-        y: 746
-        width: 666
-        height: 550
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 0
+        y: 720
+        width: 1280
+        height: 720
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -359,12 +359,12 @@ TextureImporter:
       name: ProtagonistCelebration_10
       rect:
         serializedVersion: 2
-        x: 1545
-        y: 746
-        width: 666
-        height: 550
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1280
+        y: 720
+        width: 1280
+        height: 720
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -381,12 +381,12 @@ TextureImporter:
       name: ProtagonistCelebration_11
       rect:
         serializedVersion: 2
-        x: 2825
-        y: 746
-        width: 666
-        height: 550
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 2560
+        y: 720
+        width: 1280
+        height: 720
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -403,12 +403,12 @@ TextureImporter:
       name: ProtagonistCelebration_12
       rect:
         serializedVersion: 2
-        x: 265
-        y: 26
-        width: 666
-        height: 550
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 0
+        y: 0
+        width: 1280
+        height: 720
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -425,7 +425,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 87a6535d9d3a06344909d00d23666bf9
     internalID: 0
     vertices: []
     indices: 
@@ -433,7 +433,9 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":3.0,"y":5.0},"gridSpriteSize":{"x":1280.0,"y":720.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.4000000059604645},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":9,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
       ProtagonistCelebration_0: -7033393201811804812
       ProtagonistCelebration_1: -3392341782727986015

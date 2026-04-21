@@ -87,7 +87,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 575
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -139,12 +139,12 @@ TextureImporter:
       name: ProtagonistDeath_0
       rect:
         serializedVersion: 2
-        x: 261
-        y: 2905
-        width: 665
-        height: 555
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 0
+        y: 2880
+        width: 1280
+        height: 720
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -161,12 +161,12 @@ TextureImporter:
       name: ProtagonistDeath_1
       rect:
         serializedVersion: 2
-        x: 1541
-        y: 2905
-        width: 678
-        height: 555
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1280
+        y: 2880
+        width: 1280
+        height: 720
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -183,12 +183,12 @@ TextureImporter:
       name: ProtagonistDeath_2
       rect:
         serializedVersion: 2
-        x: 2821
-        y: 2905
-        width: 689
-        height: 555
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 2560
+        y: 2880
+        width: 1280
+        height: 720
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -205,12 +205,12 @@ TextureImporter:
       name: ProtagonistDeath_3
       rect:
         serializedVersion: 2
-        x: 261
-        y: 2185
-        width: 693
-        height: 555
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 0
+        y: 2160
+        width: 1280
+        height: 720
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -227,12 +227,12 @@ TextureImporter:
       name: ProtagonistDeath_4
       rect:
         serializedVersion: 2
-        x: 1541
-        y: 2185
-        width: 681
-        height: 555
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1280
+        y: 2160
+        width: 1280
+        height: 720
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -249,12 +249,12 @@ TextureImporter:
       name: ProtagonistDeath_5
       rect:
         serializedVersion: 2
-        x: 2822
-        y: 2185
-        width: 711
-        height: 554
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 2560
+        y: 2160
+        width: 1280
+        height: 720
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -271,12 +271,12 @@ TextureImporter:
       name: ProtagonistDeath_6
       rect:
         serializedVersion: 2
-        x: 262
-        y: 1465
-        width: 722
-        height: 554
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 0
+        y: 1440
+        width: 1280
+        height: 720
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -293,12 +293,12 @@ TextureImporter:
       name: ProtagonistDeath_7
       rect:
         serializedVersion: 2
-        x: 1542
-        y: 1465
-        width: 722
-        height: 554
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1280
+        y: 1440
+        width: 1280
+        height: 720
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -315,12 +315,12 @@ TextureImporter:
       name: ProtagonistDeath_8
       rect:
         serializedVersion: 2
-        x: 2822
-        y: 1465
-        width: 722
-        height: 554
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 2560
+        y: 1440
+        width: 1280
+        height: 720
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -337,12 +337,12 @@ TextureImporter:
       name: ProtagonistDeath_9
       rect:
         serializedVersion: 2
-        x: 262
-        y: 745
-        width: 722
-        height: 554
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 0
+        y: 720
+        width: 1280
+        height: 720
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -359,12 +359,12 @@ TextureImporter:
       name: ProtagonistDeath_10
       rect:
         serializedVersion: 2
-        x: 1542
-        y: 745
-        width: 722
-        height: 554
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1280
+        y: 720
+        width: 1280
+        height: 720
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -381,12 +381,12 @@ TextureImporter:
       name: ProtagonistDeath_11
       rect:
         serializedVersion: 2
-        x: 2822
-        y: 745
-        width: 722
-        height: 554
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 2560
+        y: 720
+        width: 1280
+        height: 720
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -403,12 +403,12 @@ TextureImporter:
       name: ProtagonistDeath_12
       rect:
         serializedVersion: 2
-        x: 262
-        y: 25
-        width: 722
-        height: 554
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 0
+        y: 0
+        width: 1280
+        height: 720
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -425,7 +425,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: b757b6d84c2d8064a9ce695ed2bcd5b4
     internalID: 0
     vertices: []
     indices: 
@@ -433,7 +433,9 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":3.0,"y":5.0},"gridSpriteSize":{"x":1280.0,"y":720.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.4000000059604645},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":9,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
       ProtagonistDeath_0: 1999934777196751746
       ProtagonistDeath_1: -2890817003654756533

@@ -108,7 +108,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 575
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -160,12 +160,12 @@ TextureImporter:
       name: PortagonistIdle_0
       rect:
         serializedVersion: 2
-        x: 263
-        y: 4346
-        width: 662
-        height: 552
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 0
+        y: 4320
+        width: 1280
+        height: 720
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -182,12 +182,12 @@ TextureImporter:
       name: PortagonistIdle_1
       rect:
         serializedVersion: 2
-        x: 1543
-        y: 4346
-        width: 662
-        height: 562
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1280
+        y: 4320
+        width: 1280
+        height: 720
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -204,12 +204,12 @@ TextureImporter:
       name: PortagonistIdle_2
       rect:
         serializedVersion: 2
-        x: 2823
-        y: 4346
-        width: 662
-        height: 574
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 2560
+        y: 4320
+        width: 1280
+        height: 720
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -226,12 +226,12 @@ TextureImporter:
       name: PortagonistIdle_3
       rect:
         serializedVersion: 2
-        x: 263
-        y: 3626
-        width: 662
-        height: 587
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 0
+        y: 3600
+        width: 1280
+        height: 720
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -248,12 +248,12 @@ TextureImporter:
       name: PortagonistIdle_4
       rect:
         serializedVersion: 2
-        x: 1543
-        y: 3626
-        width: 662
-        height: 590
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1280
+        y: 3600
+        width: 1280
+        height: 720
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -270,12 +270,12 @@ TextureImporter:
       name: PortagonistIdle_5
       rect:
         serializedVersion: 2
-        x: 2823
-        y: 3626
-        width: 662
-        height: 591
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 2560
+        y: 3600
+        width: 1280
+        height: 720
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -292,12 +292,12 @@ TextureImporter:
       name: PortagonistIdle_6
       rect:
         serializedVersion: 2
-        x: 263
-        y: 2906
-        width: 662
-        height: 591
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 0
+        y: 2880
+        width: 1280
+        height: 720
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -314,12 +314,12 @@ TextureImporter:
       name: PortagonistIdle_7
       rect:
         serializedVersion: 2
-        x: 1543
-        y: 2906
-        width: 662
-        height: 590
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1280
+        y: 2880
+        width: 1280
+        height: 720
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -336,12 +336,12 @@ TextureImporter:
       name: PortagonistIdle_8
       rect:
         serializedVersion: 2
-        x: 2823
-        y: 2906
-        width: 662
-        height: 587
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 2560
+        y: 2880
+        width: 1280
+        height: 720
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -358,12 +358,12 @@ TextureImporter:
       name: PortagonistIdle_9
       rect:
         serializedVersion: 2
-        x: 263
-        y: 2186
-        width: 662
-        height: 574
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 0
+        y: 2160
+        width: 1280
+        height: 720
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -380,12 +380,12 @@ TextureImporter:
       name: PortagonistIdle_10
       rect:
         serializedVersion: 2
-        x: 1543
-        y: 2186
-        width: 662
-        height: 562
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1280
+        y: 2160
+        width: 1280
+        height: 720
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -402,12 +402,12 @@ TextureImporter:
       name: PortagonistIdle_11
       rect:
         serializedVersion: 2
-        x: 2823
-        y: 2186
-        width: 662
-        height: 552
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 2560
+        y: 2160
+        width: 1280
+        height: 720
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -424,12 +424,12 @@ TextureImporter:
       name: PortagonistIdle_12
       rect:
         serializedVersion: 2
-        x: 263
-        y: 1466
-        width: 662
-        height: 552
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 0
+        y: 1440
+        width: 1280
+        height: 720
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -446,12 +446,12 @@ TextureImporter:
       name: PortagonistIdle_13
       rect:
         serializedVersion: 2
-        x: 1543
-        y: 1466
-        width: 662
-        height: 552
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1280
+        y: 1440
+        width: 1280
+        height: 720
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -468,12 +468,12 @@ TextureImporter:
       name: PortagonistIdle_14
       rect:
         serializedVersion: 2
-        x: 2823
-        y: 1466
-        width: 662
-        height: 552
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 2560
+        y: 1440
+        width: 1280
+        height: 720
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -490,12 +490,12 @@ TextureImporter:
       name: PortagonistIdle_15
       rect:
         serializedVersion: 2
-        x: 263
-        y: 746
-        width: 662
-        height: 552
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 0
+        y: 720
+        width: 1280
+        height: 720
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -512,12 +512,12 @@ TextureImporter:
       name: PortagonistIdle_16
       rect:
         serializedVersion: 2
-        x: 1543
-        y: 746
-        width: 662
-        height: 552
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1280
+        y: 720
+        width: 1280
+        height: 720
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -534,12 +534,12 @@ TextureImporter:
       name: PortagonistIdle_17
       rect:
         serializedVersion: 2
-        x: 2823
-        y: 746
-        width: 662
-        height: 552
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 2560
+        y: 720
+        width: 1280
+        height: 720
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -556,12 +556,12 @@ TextureImporter:
       name: PortagonistIdle_18
       rect:
         serializedVersion: 2
-        x: 263
-        y: 26
-        width: 662
-        height: 552
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 0
+        y: 0
+        width: 1280
+        height: 720
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -578,12 +578,12 @@ TextureImporter:
       name: PortagonistIdle_19
       rect:
         serializedVersion: 2
-        x: 1543
-        y: 26
-        width: 662
-        height: 552
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1280
+        y: 0
+        width: 1280
+        height: 720
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -600,7 +600,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 2c3bd1f39f5d065428e977b4814f574b
     internalID: 0
     vertices: []
     indices: 
@@ -608,7 +608,9 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":3.0,"y":7.0},"gridSpriteSize":{"x":1280.0,"y":720.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.4000000059604645},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":9,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
       PortagonistIdle_0: 693612026201942856
       PortagonistIdle_1: 3554065654631950955

@@ -150,7 +150,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 575
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -202,12 +202,12 @@ TextureImporter:
       name: AllTeethWalkCycle (1)_0
       rect:
         serializedVersion: 2
-        x: 262
-        y: 5766
-        width: 667
-        height: 551
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 0
+        y: 5760
+        width: 1280
+        height: 720
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -224,12 +224,12 @@ TextureImporter:
       name: AllTeethWalkCycle (1)_1
       rect:
         serializedVersion: 2
-        x: 1542
-        y: 5769
-        width: 667
-        height: 540
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1280
+        y: 5760
+        width: 1280
+        height: 720
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -246,12 +246,12 @@ TextureImporter:
       name: AllTeethWalkCycle (1)_2
       rect:
         serializedVersion: 2
-        x: 2822
-        y: 5772
-        width: 667
-        height: 551
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 2560
+        y: 5760
+        width: 1280
+        height: 720
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -268,12 +268,12 @@ TextureImporter:
       name: AllTeethWalkCycle (1)_3
       rect:
         serializedVersion: 2
-        x: 4102
-        y: 5776
-        width: 667
-        height: 562
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 3840
+        y: 5760
+        width: 1280
+        height: 720
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -290,12 +290,12 @@ TextureImporter:
       name: AllTeethWalkCycle (1)_4
       rect:
         serializedVersion: 2
-        x: 262
-        y: 5061
-        width: 667
-        height: 571
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 0
+        y: 5040
+        width: 1280
+        height: 720
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -312,12 +312,12 @@ TextureImporter:
       name: AllTeethWalkCycle (1)_5
       rect:
         serializedVersion: 2
-        x: 1542
-        y: 5060
-        width: 667
-        height: 586
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1280
+        y: 5040
+        width: 1280
+        height: 720
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -334,12 +334,12 @@ TextureImporter:
       name: AllTeethWalkCycle (1)_6
       rect:
         serializedVersion: 2
-        x: 2822
-        y: 5054
-        width: 667
-        height: 598
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 2560
+        y: 5040
+        width: 1280
+        height: 720
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -356,12 +356,12 @@ TextureImporter:
       name: AllTeethWalkCycle (1)_7
       rect:
         serializedVersion: 2
-        x: 4102
-        y: 5055
-        width: 667
-        height: 604
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 3840
+        y: 5040
+        width: 1280
+        height: 720
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -378,12 +378,12 @@ TextureImporter:
       name: AllTeethWalkCycle (1)_8
       rect:
         serializedVersion: 2
-        x: 262
-        y: 4346
-        width: 667
-        height: 599
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 0
+        y: 4320
+        width: 1280
+        height: 720
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -400,12 +400,12 @@ TextureImporter:
       name: AllTeethWalkCycle (1)_9
       rect:
         serializedVersion: 2
-        x: 1542
-        y: 4354
-        width: 667
-        height: 597
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1280
+        y: 4320
+        width: 1280
+        height: 720
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -422,12 +422,12 @@ TextureImporter:
       name: AllTeethWalkCycle (1)_10
       rect:
         serializedVersion: 2
-        x: 2822
-        y: 4351
-        width: 667
-        height: 588
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 2560
+        y: 4320
+        width: 1280
+        height: 720
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -444,12 +444,12 @@ TextureImporter:
       name: AllTeethWalkCycle (1)_11
       rect:
         serializedVersion: 2
-        x: 4102
-        y: 4348
-        width: 667
-        height: 579
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 3840
+        y: 4320
+        width: 1280
+        height: 720
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -466,12 +466,12 @@ TextureImporter:
       name: AllTeethWalkCycle (1)_12
       rect:
         serializedVersion: 2
-        x: 262
-        y: 3627
-        width: 667
-        height: 568
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 0
+        y: 3600
+        width: 1280
+        height: 720
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -488,12 +488,12 @@ TextureImporter:
       name: AllTeethWalkCycle (1)_13
       rect:
         serializedVersion: 2
-        x: 1542
-        y: 3627
-        width: 667
-        height: 556
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1280
+        y: 3600
+        width: 1280
+        height: 720
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -510,12 +510,12 @@ TextureImporter:
       name: AllTeethWalkCycle (1)_14
       rect:
         serializedVersion: 2
-        x: 2822
-        y: 3624
-        width: 667
-        height: 554
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 2560
+        y: 3600
+        width: 1280
+        height: 720
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -532,12 +532,12 @@ TextureImporter:
       name: AllTeethWalkCycle (1)_15
       rect:
         serializedVersion: 2
-        x: 4102
-        y: 3621
-        width: 667
-        height: 551
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 3840
+        y: 3600
+        width: 1280
+        height: 720
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -554,12 +554,12 @@ TextureImporter:
       name: AllTeethWalkCycle (1)_16
       rect:
         serializedVersion: 2
-        x: 262
-        y: 2899
-        width: 667
-        height: 547
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 0
+        y: 2880
+        width: 1280
+        height: 720
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -576,12 +576,12 @@ TextureImporter:
       name: AllTeethWalkCycle (1)_17
       rect:
         serializedVersion: 2
-        x: 1542
-        y: 2896
-        width: 667
-        height: 545
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1280
+        y: 2880
+        width: 1280
+        height: 720
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -598,12 +598,12 @@ TextureImporter:
       name: AllTeethWalkCycle (1)_18
       rect:
         serializedVersion: 2
-        x: 2822
-        y: 2892
-        width: 667
-        height: 558
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 2560
+        y: 2880
+        width: 1280
+        height: 720
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -620,12 +620,12 @@ TextureImporter:
       name: AllTeethWalkCycle (1)_19
       rect:
         serializedVersion: 2
-        x: 4102
-        y: 2890
-        width: 667
-        height: 569
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 3840
+        y: 2880
+        width: 1280
+        height: 720
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -642,12 +642,12 @@ TextureImporter:
       name: AllTeethWalkCycle (1)_20
       rect:
         serializedVersion: 2
-        x: 262
-        y: 2172
-        width: 667
-        height: 576
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 0
+        y: 2160
+        width: 1280
+        height: 720
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -664,12 +664,12 @@ TextureImporter:
       name: AllTeethWalkCycle (1)_21
       rect:
         serializedVersion: 2
-        x: 1542
-        y: 2164
-        width: 667
-        height: 593
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1280
+        y: 2160
+        width: 1280
+        height: 720
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -686,12 +686,12 @@ TextureImporter:
       name: AllTeethWalkCycle (1)_22
       rect:
         serializedVersion: 2
-        x: 2822
-        y: 2181
-        width: 667
-        height: 586
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 2560
+        y: 2160
+        width: 1280
+        height: 720
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -708,12 +708,12 @@ TextureImporter:
       name: AllTeethWalkCycle (1)_23
       rect:
         serializedVersion: 2
-        x: 4102
-        y: 2188
-        width: 667
-        height: 588
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 3840
+        y: 2160
+        width: 1280
+        height: 720
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -730,12 +730,12 @@ TextureImporter:
       name: AllTeethWalkCycle (1)_24
       rect:
         serializedVersion: 2
-        x: 262
-        y: 1469
-        width: 667
-        height: 597
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 0
+        y: 1440
+        width: 1280
+        height: 720
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -752,12 +752,12 @@ TextureImporter:
       name: AllTeethWalkCycle (1)_25
       rect:
         serializedVersion: 2
-        x: 1542
-        y: 1468
-        width: 667
-        height: 608
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1280
+        y: 1440
+        width: 1280
+        height: 720
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -774,12 +774,12 @@ TextureImporter:
       name: AllTeethWalkCycle (1)_26
       rect:
         serializedVersion: 2
-        x: 2823
-        y: 1468
-        width: 667
-        height: 594
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 2560
+        y: 1440
+        width: 1280
+        height: 720
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -796,12 +796,12 @@ TextureImporter:
       name: AllTeethWalkCycle (1)_27
       rect:
         serializedVersion: 2
-        x: 4105
-        y: 1469
-        width: 667
-        height: 579
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 3840
+        y: 1440
+        width: 1280
+        height: 720
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -818,12 +818,12 @@ TextureImporter:
       name: AllTeethWalkCycle (1)_28
       rect:
         serializedVersion: 2
-        x: 266
-        y: 751
-        width: 667
-        height: 564
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 0
+        y: 720
+        width: 1280
+        height: 720
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -840,12 +840,12 @@ TextureImporter:
       name: AllTeethWalkCycle (1)_29
       rect:
         serializedVersion: 2
-        x: 1548
-        y: 748
-        width: 667
-        height: 553
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1280
+        y: 720
+        width: 1280
+        height: 720
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -862,12 +862,12 @@ TextureImporter:
       name: AllTeethWalkCycle (1)_30
       rect:
         serializedVersion: 2
-        x: 2828
-        y: 745
-        width: 667
-        height: 550
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 2560
+        y: 720
+        width: 1280
+        height: 720
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -884,12 +884,12 @@ TextureImporter:
       name: AllTeethWalkCycle (1)_31
       rect:
         serializedVersion: 2
-        x: 4109
-        y: 744
-        width: 666
-        height: 545
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 3840
+        y: 720
+        width: 1280
+        height: 720
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -906,12 +906,12 @@ TextureImporter:
       name: AllTeethWalkCycle (1)_32
       rect:
         serializedVersion: 2
-        x: 268
-        y: 25
-        width: 667
-        height: 538
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 0
+        y: 0
+        width: 1280
+        height: 720
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -928,12 +928,12 @@ TextureImporter:
       name: AllTeethWalkCycle (1)_33
       rect:
         serializedVersion: 2
-        x: 1548
-        y: 25
-        width: 667
-        height: 533
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1280
+        y: 0
+        width: 1280
+        height: 720
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -950,7 +950,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 9710c31c78b086c4a91b81115ce2fc68
     internalID: 0
     vertices: []
     indices: 
@@ -958,7 +958,9 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":4.0,"y":9.0},"gridSpriteSize":{"x":1280.0,"y":720.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.4000000059604645},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":9,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
       AllTeethWalkCycle (1)_0: -8534759232616636039
       AllTeethWalkCycle (1)_1: -4976826175201072580
