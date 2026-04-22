@@ -1,0 +1,924 @@
+[Licensing::Module] Trying to connect to existing licensing client channel...
+Built from '6000.4/staging' branch; Version is '6000.4.0f1 (8cf496087c8f) revision 9237654'; Using compiler version '194234433'; Build Type 'Release'
+[Licensing::IpcConnector] Successfully connected to: "LicenseClient-smc4598" at "2026-04-21T21:54:09.1384292Z"
+OS: 'Windows 11  (10.0.26100) Enterprise' Language: 'en' Physical Memory: 32509 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1
+System  architecture: x64
+Process architecture: x64
+Date: 2026-04-21T21:54:09Z
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\6000.4.0f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker15
+-projectPath
+D:/Profiles/smc4598/Documents/GitHub/119Game/119 Game
+-logFile
+Logs/AssetImportWorker15.log
+-srvPort
+42778
+-licensingIpc
+LicenseClient-smc4598
+-force-d3d12
+-job-worker-count
+11
+-background-job-worker-count
+8
+-gc-helper-count
+1
+-name
+AssetImport
+Successfully changed project path to: D:/Profiles/smc4598/Documents/GitHub/119Game/119 Game
+D:/Profiles/smc4598/Documents/GitHub/119Game/119 Game
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gfx=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+Player connection [23064]  Target information:
+
+Player connection [23064]  * "[IP] 129.21.197.30 [Port] 0 [Flags] 2 [Guid] 3929918210 [EditorId] 3929918210 [Version] 1048832 [Id] WindowsEditor(7,MSS2175-23) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [23064]  * "[IP] 169.254.18.59 [Port] 0 [Flags] 2 [Guid] 3929918210 [EditorId] 3929918210 [Version] 1048832 [Id] WindowsEditor(7,MSS2175-23) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [23064]  * "[IP] 192.168.56.1 [Port] 0 [Flags] 2 [Guid] 3929918210 [EditorId] 3929918210 [Version] 1048832 [Id] WindowsEditor(7,MSS2175-23) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [23064]  * "[IP] 192.168.136.1 [Port] 0 [Flags] 2 [Guid] 3929918210 [EditorId] 3929918210 [Version] 1048832 [Id] WindowsEditor(7,MSS2175-23) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [23064]  * "[IP] 192.168.44.1 [Port] 0 [Flags] 2 [Guid] 3929918210 [EditorId] 3929918210 [Version] 1048832 [Id] WindowsEditor(7,MSS2175-23) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [23064] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [23064] Host joined alternative multi-casting on [225.0.0.222:34997]...
+JobSystem: Creating JobQueue using job-worker-count value 11
+Input System module state changed to: Initialized.
+[Physics::Module] Initialized fallback backend.
+[Physics::Module] Id: 0xdecafbad
+Library Redirect Path: Library/
+[Physics::Module] Selected backend.
+[Physics::Module] Name: PhysX
+[Physics::Module] Id: 0xf2b8ea05
+[Physics::Module] SDK Version: 4.1.2
+[Physics::Module] Integration Version: 1.0.0
+[Physics::Module] Threading Mode: Multi-Threaded
+Initialize engine version: 6000.4.0f1 (8cf496087c8f)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/6000.4.0f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/Profiles/smc4598/Documents/GitHub/119Game/119 Game/Assets
+Forcing GfxDevice: Direct3D 12
+GfxDevice: creating device client; kGfxThreadingModeNonThreaded
+[Licensing::Client] Error: HandshakeResponse reported an error:
+	ResponseCode: 505
+	ResponseStatus: Unsupported protocol version '1.18.1'.
+[Licensing::Module] Error: Failed to handshake to channel: "LicenseClient-smc4598"
+[Licensing::IpcConnector] LicenseClient-smc4598 channel disconnected successfully.
+[Licensing::IpcConnector] Successfully connected to: "LicenseClient-smc4598-6000.4.0" at "2026-04-21T21:54:09.7926102Z"
+d3d12: failed to query info queue interface (0x80004002).
+Direct3D:
+    Version:         Direct3D 12 [level 12.2]
+    Renderer:        NVIDIA GeForce RTX 3060 (ID=0x2504)
+    Vendor:          NVIDIA
+    VRAM:            12115 MB
+    App VRAM Budget: 11347 MB
+    Driver:          32.0.15.7688
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/6000.4.0f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/6000.4.0f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/6000.4.0f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56288
+CodeReloadManager initialized
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.4.0f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001165 seconds.
+[Licensing::Client] Handshaking with LicensingClient:
+  Version:                 1.18.1+9fbee8e
+  Session Id:              01b038b4301c4c528070f17330cbe0b3
+  Correlation Id:          20d92c7d0eccc8be47c55daa728984d5
+  External correlation Id: 6236068302839133077
+  Machine Id:              pfMov4UhlrFXdSddrPw36gerXyQ=
+[Licensing::Module] Successfully connected to LicensingClient on channel: "LicenseClient-smc4598-6000.4.0" (connect: 0.00s, validation: 0.00s, handshake: 0.62s)
+[Licensing::IpcConnector] Successfully connected to: "LicenseClient-smc4598-6000.4.0-notifications" at "2026-04-21T21:54:10.4111677Z"
+[Licensing::Module] Licensing Background thread has ended after 1.27s
+Native extension for WindowsStandalone target not found
+Package Manager log level set to [2]
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+ScheduleIndexationOnStartup MainProcess:False IndexOnStartup:True
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.262 seconds
+Domain Reload Profiling: 569ms
+	BeginReloadAssembly (89ms)
+	RebuildCommonClasses (26ms)
+	RebuildNativeTypeToScriptingClass (9ms)
+	initialDomainReloadingComplete (41ms)
+	LoadAllAssembliesAndSetupDomain (141ms)
+		LoadAssemblies (87ms)
+		AnalyzeDomain (136ms)
+			TypeCache.Refresh (135ms)
+				TypeCache.ScanAssembly (125ms)
+	FinalizeReload (263ms)
+		SetupLoadedEditorAssemblies (0ms)
+			InitializePlatformSupportModulesInManaged (30ms)
+			BeforeProcessingInitializeOnLoad (51ms)
+			ProcessInitializeOnLoadAttributes (75ms)
+			ProcessInitializeOnLoadMethodAttributes (58ms)
+Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
+========================================================================
+Worker process is ready to serve import requests
+Import Worker Mode flag is 0x00
+Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
+Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
+Begin MonoManager ReloadAssembly
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Module] License group:
+  Id: E4-JKGS-SUD9-GJQN-M8TF-XXXX
+  Product: Unity Education
+  Type: ULF
+  Expiration: 2026-07-26T13:18:05Z
+Assembly Assembly-CSharp-Editor-firstpass.dll at Library/ScriptAssemblies/Assembly-CSharp-Editor-firstpass.dll not valid. Loading of assembly skipped.
+Assembly Assembly-CSharp-firstpass.dll at Library/ScriptAssemblies/Assembly-CSharp-firstpass.dll not valid. Loading of assembly skipped.
+Assembly TestNewCustomAssembly.dll at Library/ScriptAssemblies/TestNewCustomAssembly.dll not valid. Loading of assembly skipped.
+Assembly Unity.2D.Animation.EditorTests.dll at Library/ScriptAssemblies/Unity.2D.Animation.EditorTests.dll not valid. Loading of assembly skipped.
+Assembly Unity.2D.Aseprite.EditorTests.dll at Library/ScriptAssemblies/Unity.2D.Aseprite.EditorTests.dll not valid. Loading of assembly skipped.
+Assembly Unity.2D.Common.EditorTests.dll at Library/ScriptAssemblies/Unity.2D.Common.EditorTests.dll not valid. Loading of assembly skipped.
+Assembly Unity.2D.PixelPerfect.Editor.Tests.dll at Library/ScriptAssemblies/Unity.2D.PixelPerfect.Editor.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.2D.Psdimporter.EditorTests.dll at Library/ScriptAssemblies/Unity.2D.Psdimporter.EditorTests.dll not valid. Loading of assembly skipped.
+Assembly Unity.2D.Sprite.Package.EditorTests.dll at Library/ScriptAssemblies/Unity.2D.Sprite.Package.EditorTests.dll not valid. Loading of assembly skipped.
+Assembly Unity.2D.SpriteShape.EditorTests.dll at Library/ScriptAssemblies/Unity.2D.SpriteShape.EditorTests.dll not valid. Loading of assembly skipped.
+Assembly Unity.2D.Tilemap.Package.EditorTests.dll at Library/ScriptAssemblies/Unity.2D.Tilemap.Package.EditorTests.dll not valid. Loading of assembly skipped.
+Assembly Unity.Collections.BurstCompatibilityGen.dll at Library/ScriptAssemblies/Unity.Collections.BurstCompatibilityGen.dll not valid. Loading of assembly skipped.
+Assembly Unity.Collections.DocCodeSamples.dll at Library/ScriptAssemblies/Unity.Collections.DocCodeSamples.dll not valid. Loading of assembly skipped.
+Assembly Unity.Collections.PerformanceTests.dll at Library/ScriptAssemblies/Unity.Collections.PerformanceTests.dll not valid. Loading of assembly skipped.
+Assembly Unity.Collections.Tests.dll at Library/ScriptAssemblies/Unity.Collections.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.Collections.Tests.Playmode.dll at Library/ScriptAssemblies/Unity.Collections.Tests.Playmode.dll not valid. Loading of assembly skipped.
+Assembly Unity.InputSystem.IntegrationTests.dll at Library/ScriptAssemblies/Unity.InputSystem.IntegrationTests.dll not valid. Loading of assembly skipped.
+Assembly Unity.Mathematics.Tests.dll at Library/ScriptAssemblies/Unity.Mathematics.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.Multiplayer.Center.Editor.Tests.dll at Library/ScriptAssemblies/Unity.Multiplayer.Center.Editor.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.Multiplayer.Center.Tests.dll at Library/ScriptAssemblies/Unity.Multiplayer.Center.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.Nuget.Mono-Cecil.dll at Library/ScriptAssemblies/Unity.Nuget.Mono-Cecil.dll not valid. Loading of assembly skipped.
+Assembly Unity.PathTracing.Editor.Tests.dll at Library/ScriptAssemblies/Unity.PathTracing.Editor.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.PathTracing.Runtime.Tests.dll at Library/ScriptAssemblies/Unity.PathTracing.Runtime.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.Performance.Profile-Analyzer.EditorTests.dll at Library/ScriptAssemblies/Unity.Performance.Profile-Analyzer.EditorTests.dll not valid. Loading of assembly skipped.
+Assembly Unity.Play.Publisher.Editor.Tests.dll at Library/ScriptAssemblies/Unity.Play.Publisher.Editor.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.RenderPipelines.Core.Editor.Tests.dll at Library/ScriptAssemblies/Unity.RenderPipelines.Core.Editor.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.RenderPipelines.Core.Runtime.Tests.dll at Library/ScriptAssemblies/Unity.RenderPipelines.Core.Runtime.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.RenderPipelines.Universal.Config.Editor.Tests.dll at Library/ScriptAssemblies/Unity.RenderPipelines.Universal.Config.Editor.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.RenderPipelines.Universal.Editor.Tests.dll at Library/ScriptAssemblies/Unity.RenderPipelines.Universal.Editor.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.RenderPipelines.Universal.Runtime.Tests.dll at Library/ScriptAssemblies/Unity.RenderPipelines.Universal.Runtime.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.Searcher.EditorTests.dll at Library/ScriptAssemblies/Unity.Searcher.EditorTests.dll not valid. Loading of assembly skipped.
+Assembly Unity.Settings.Tests.dll at Library/ScriptAssemblies/Unity.Settings.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.ShaderGraph.Editor.Tests.dll at Library/ScriptAssemblies/Unity.ShaderGraph.Editor.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.TestTools.CodeCoverage.Editor.Compatibility.dll at Library/ScriptAssemblies/Unity.TestTools.CodeCoverage.Editor.Compatibility.dll not valid. Loading of assembly skipped.
+Assembly Unity.TextMeshPro.Editor.Tests.dll at Library/ScriptAssemblies/Unity.TextMeshPro.Editor.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.TextMeshPro.Tests.dll at Library/ScriptAssemblies/Unity.TextMeshPro.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.Tutorials.Core.Editor.Tests.dll at Library/ScriptAssemblies/Unity.Tutorials.Core.Editor.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.Tutorials.Core.Tests.dll at Library/ScriptAssemblies/Unity.Tutorials.Core.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.UnifiedRayTracing.Editor.Tests.dll at Library/ScriptAssemblies/Unity.UnifiedRayTracing.Editor.Tests.dll not valid. Loading of assembly skipped.
+Assembly UnityEditor.UI.Common.Tests.dll at Library/ScriptAssemblies/UnityEditor.UI.Common.Tests.dll not valid. Loading of assembly skipped.
+Assembly UnityEditor.UI.EditorTests.dll at Library/ScriptAssemblies/UnityEditor.UI.EditorTests.dll not valid. Loading of assembly skipped.
+Assembly UnityEngine.UI.Tests.dll at Library/ScriptAssemblies/UnityEngine.UI.Tests.dll not valid. Loading of assembly skipped.
+Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
+'Packages/com.unity.cinemachine/Editor/Obsolete/CinemachineVirtualCameraBaseEditor.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+'Packages/com.unity.cinemachine/Editor/Editors/CinemachineVirtualCameraBaseEditor.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+Native extension for WindowsStandalone target not found
+Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+ScheduleIndexationOnStartup MainProcess:False IndexOnStartup:True
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.439 seconds
+Domain Reload Profiling: 943ms
+	BeginReloadAssembly (118ms)
+		DisableScriptedObjects (3ms)
+		CreateAndSetChildDomain (20ms)
+	RebuildCommonClasses (27ms)
+	RebuildNativeTypeToScriptingClass (9ms)
+	initialDomainReloadingComplete (45ms)
+	LoadAllAssembliesAndSetupDomain (304ms)
+		LoadAssemblies (207ms)
+		AnalyzeDomain (159ms)
+			TypeCache.Refresh (110ms)
+				TypeCache.ScanAssembly (99ms)
+			BuildScriptInfoCaches (41ms)
+			ResolveRequiredComponents (7ms)
+	FinalizeReload (440ms)
+		SetupLoadedEditorAssemblies (0ms)
+			BeforeProcessingInitializeOnLoad (87ms)
+			ProcessInitializeOnLoadAttributes (153ms)
+			ProcessInitializeOnLoadMethodAttributes (55ms)
+		AwakeInstancesAfterBackupRestoration (4ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.01 seconds
+Unloading 25 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 5321 unused Assets / (5.2 MB). Loaded Objects now: 6185.
+Memory consumption went from 157.7 MB to 152.5 MB.
+Total: 5.099800 ms (FindLiveObjects: 0.338400 ms CreateObjectMapping: 0.297300 ms MarkObjects: 3.270400 ms  DeleteObjects: 1.192300 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 18011.457457 seconds.
+  path: Assets/Tiles/MountainsFar_0.asset
+  importAddress: Guid(23637179a858d9047b028b292e511926) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Tiles/MountainsFar_0.asset using Guid(23637179a858d9047b028b292e511926) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: 'be359a4835776869fef316b1cb592ea8') in 0.0829382 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=1ce5c237f46d0c972fc0e70e146d20e1 DependenciesID=ae36f0b53bfdacb96969cff408bbed5f StaticDependenciesID=f5fbb35a0792f2598cfa779fe43f96a3 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 72.003528 seconds.
+  path: Assets/Prefabs/TilePalette.prefab
+  importAddress: Guid(c02c4165d21a0fd488455befe67d7aac) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Prefabs/TilePalette.prefab using Guid(c02c4165d21a0fd488455befe67d7aac) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '1e6b03747ecb1df17f755968bd88dbd7') in 0.0194473 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=86db791ce7f7be685c064924b7257f5d DependenciesID=cedb35bbc3492399c32f02cfb172f91c StaticDependenciesID=347904a8e23079afe32c4c571f2a032e 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 10
+
+========================================================================
+Received Import Request.
+  Time since last request: 338.563569 seconds.
+  path: Assets/Tiles/MountainsFar_0.asset
+  importAddress: Guid(23637179a858d9047b028b292e511926) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/MountainsFar_0.asset using Guid(23637179a858d9047b028b292e511926) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: '57c57f6b9674aabd0f1bf5f76fa266ac') in 0.0641819 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=9c257bb9d1e349c972ac99727100783f DependenciesID=190c9e8ded9e466e28af4969f1b59379 StaticDependenciesID=59ac63087b74a82a2554ebb9c4126c5b 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 967.511160 seconds.
+  path: Assets/Prefabs/TilePalette.prefab
+  importAddress: Guid(c02c4165d21a0fd488455befe67d7aac) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Prefabs/TilePalette.prefab using Guid(c02c4165d21a0fd488455befe67d7aac) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '88b175b8dddc54ceface3ab2361aaf85') in 0.0140803 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=9d35bf8ea88a1d165c0bc9961f017b15 DependenciesID=26980e739545ffab8fd27d73c52e8a19 StaticDependenciesID=c20bce58536350b39783b7028258d8c2 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 10
+
+========================================================================
+Received Import Request.
+  Time since last request: 210.900876 seconds.
+  path: Assets/Environment/Tiles/MountainsFar.png
+  importAddress: Guid(e9c22375003b7d9468b18f9fbfaa4eb9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Environment/Tiles/MountainsFar.png using Guid(e9c22375003b7d9468b18f9fbfaa4eb9) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: 'eb6d8c5339e5651558270b3c6db7d23f') in 0.2722076 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=070bc90df041d659eb4c80dcf46ada7b DependenciesID=b09c64bee0d4811e58198072ad4c6e92 StaticDependenciesID=ef4211ffe8e066bafd42fcc9283416d0 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.670412 seconds.
+  path: Assets/Environment/Tiles/MountainsFar.png
+  importAddress: Guid(e9c22375003b7d9468b18f9fbfaa4eb9) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Environment/Tiles/MountainsFar.png using Guid(e9c22375003b7d9468b18f9fbfaa4eb9) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '9d8357bd8201aa4fa4ca931eb521a29c') in 0.0304011 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=8e385d9660f8f0015afe8d13683dae67 DependenciesID=5fbd35f0ccc09cda04e898b9d3aa7c80 StaticDependenciesID=d3ffc999f30ba8f3b9b11f3cdf986f26 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.959113 seconds.
+  path: Packages/com.unity.2d.tilemap/Editor/Unity.2D.Tilemap.Editor.asmdef
+  importAddress: Guid(3a9781db4804a9945b9883f3a7c46d45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.tilemap/Editor/Unity.2D.Tilemap.Editor.asmdef using Guid(3a9781db4804a9945b9883f3a7c46d45) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: 'cca115df708b4a68bb5b7098d25ae94e') in 0.0008701 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=de78445d1c2027757ec81accee6671c8 DependenciesID=a31e5934d0c6bda109c6741da38fca49 StaticDependenciesID=6db43df2898a984d39bbccac3c38eecd 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 41.670190 seconds.
+  path: Assets/Prefabs/TilePalette.prefab
+  importAddress: Guid(c02c4165d21a0fd488455befe67d7aac) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Prefabs/TilePalette.prefab using Guid(c02c4165d21a0fd488455befe67d7aac) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '1f17d0e595a0b0f622d920dc91d0bc2f') in 0.0094985 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=3ea3234c9b2fa0d908811e4a7b593187 DependenciesID=52e1a914588287569446a6f593cdcaae StaticDependenciesID=05bee2e6ea2f2cebd684b9772d6a11d8 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 10
+
+========================================================================
+Received Import Request.
+  Time since last request: 1045.455758 seconds.
+  path: Assets/Environment/Sprites/Middleground.png
+  importAddress: Guid(3f3ce512d8b31b5419a6c5da896aca2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Environment/Sprites/Middleground.png using Guid(3f3ce512d8b31b5419a6c5da896aca2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: 'd17247c1199c1a8ae5cc86e616ac0afb') in 0.0227698 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=5c8e560ef76df40e04fb69069d2e8117 DependenciesID=948704b46d5dcc2ea2ac100bde87f86e StaticDependenciesID=2b314c0e4d06411020ccba4562c54963 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 4
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.973161 seconds.
+  path: Assets/Environment/Sprites/Middleground.png
+  importAddress: Guid(3f3ce512d8b31b5419a6c5da896aca2a) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Environment/Sprites/Middleground.png using Guid(3f3ce512d8b31b5419a6c5da896aca2a) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '7384e0767490e62607c9435fb3688d99') in 0.0148981 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=18fc8ba54b7c9bc3eb27affb69aee1f7 DependenciesID=fcbd1cbf3e46ef21ada7c6fa832ae738 StaticDependenciesID=0c1aa3d3922670e07232cdb7a85b5c9a 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 4
+
+========================================================================
+Received Import Request.
+  Time since last request: 42.258182 seconds.
+  path: Assets/Environment/Sprites/Middleground.png
+  importAddress: Guid(3f3ce512d8b31b5419a6c5da896aca2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Environment/Sprites/Middleground.png using Guid(3f3ce512d8b31b5419a6c5da896aca2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: 'bf56100d249d3f83c90f42ff6efacd69') in 0.0190794 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=f3a95b8d2c5bd64b256648a2157d42ae DependenciesID=291673858d480bc0ef92ab13d180b511 StaticDependenciesID=1b348b86ce9444f44ab864e55f31407f 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.947667 seconds.
+  path: Assets/Environment/Sprites/Middleground.png
+  importAddress: Guid(3f3ce512d8b31b5419a6c5da896aca2a) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Environment/Sprites/Middleground.png using Guid(3f3ce512d8b31b5419a6c5da896aca2a) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '1b988a7fc7888e9dd5eac0627df4a790') in 0.0133276 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=9ea7f2a103e9318ec2d85f4b6faf7e9c DependenciesID=d62db42900a7705209c56e16b812508d StaticDependenciesID=369a3c3edd5b2f3d652db1e746e2197a 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 38.057898 seconds.
+  path: Assets/Prefabs/TilePalette.prefab
+  importAddress: Guid(c02c4165d21a0fd488455befe67d7aac) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Prefabs/TilePalette.prefab using Guid(c02c4165d21a0fd488455befe67d7aac) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '851963babe77fda9d09c5a7608d7a422') in 0.0092365 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=3a567b29473e7b6a7dd13991334cd23b DependenciesID=04ae3889cb76dff6348d11e3a85a6d06 StaticDependenciesID=cea1a4ddd78bbaffeb85949697a83499 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 10
+
+========================================================================
+Received Import Request.
+  Time since last request: 34.356969 seconds.
+  path: Assets/Tiles/Middleground.asset
+  importAddress: Guid(335fa9c18a254074b95afe34b55e9d7e) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Tiles/Middleground.asset using Guid(335fa9c18a254074b95afe34b55e9d7e) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: 'c8ed8d8a2ca05f4215c00ea14740815e') in 0.0125245 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=4adcccb82109f441fde2599bee990bf1 DependenciesID=52b971cd1f2fcb786e3e0507f4f9781c StaticDependenciesID=6cea47498e9eb6259b8b79fcebaa11e9 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.237161 seconds.
+  path: Assets/Tiles/Middleground.asset
+  importAddress: Guid(335fa9c18a254074b95afe34b55e9d7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/Middleground.asset using Guid(335fa9c18a254074b95afe34b55e9d7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: '8ff73ab3b6536d77a3dbf8ab92727a83') in 0.016482 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=5ed6683823641b10262298e248ae5042 DependenciesID=2c1a5323cf6970ea68d604333915e54d StaticDependenciesID=bafebc70d4fd8acaa22c08c7e942f779 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 841.038959 seconds.
+  path: Assets/Prefabs/TilePalette.prefab
+  importAddress: Guid(c02c4165d21a0fd488455befe67d7aac) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Prefabs/TilePalette.prefab using Guid(c02c4165d21a0fd488455befe67d7aac) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '8e2dc0436ee4715a812e0e265fdc8c39') in 0.0130325 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=860aa01d9cffb5c85466c7252b64b5b7 DependenciesID=9f5fd46a69825ee079542c7ae78d1bc7 StaticDependenciesID=0c409994ed2378df824287b275efeabc 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 10
+
+========================================================================
+Received Import Request.
+  Time since last request: 331.250803 seconds.
+  path: Assets/Environment/Sprites/SecondPalette.prefab
+  importAddress: Guid(4848e3b095eafbc4980da8a71cb2457b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Environment/Sprites/SecondPalette.prefab using Guid(4848e3b095eafbc4980da8a71cb2457b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: 'e884e1744cfbdea378bdf605c8b1fbc1') in 0.2946336 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=6f45c1ec155bac40f23e047f73d4f91b DependenciesID=f8800e9e193a60dc1b24c39d3a4b613e StaticDependenciesID=ede02b09ee468f4b368e22495e2f2cb4 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 10
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.631352 seconds.
+  path: Assets/Prefabs/TilePalette.prefab
+  importAddress: Guid(c02c4165d21a0fd488455befe67d7aac) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Prefabs/TilePalette.prefab using Guid(c02c4165d21a0fd488455befe67d7aac) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '09f14474665847c655c2bc81b34f3585') in 0.0082234 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=8a95c08b0c1ca50d8fd50dffc173a131 DependenciesID=ba6ae54866aec67cd8fe2cb2563cab0b StaticDependenciesID=6ce9abc5936efcf6181b0c68f82de58b 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 10
+
+========================================================================
+Received Import Request.
+  Time since last request: 35.199812 seconds.
+  path: Assets/Environment/Sprites/SecondPalette.prefab
+  importAddress: Guid(4848e3b095eafbc4980da8a71cb2457b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Environment/Sprites/SecondPalette.prefab using Guid(4848e3b095eafbc4980da8a71cb2457b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: '3b3e69a89be48a4b9250d8af9b4ef3e9') in 0.0390041 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=6f45c1ec155bac40f23e047f73d4f91b DependenciesID=cdbec74774aa5ac63991dd8da87e35a9 StaticDependenciesID=98a9a96f86e90991842627ccf9d0cca8 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 10
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.926431 seconds.
+  path: Assets/Environment/Sprites/SecondPalette.prefab
+  importAddress: Guid(4848e3b095eafbc4980da8a71cb2457b) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Environment/Sprites/SecondPalette.prefab using Guid(4848e3b095eafbc4980da8a71cb2457b) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: 'edfa0229ed324c45ab5127274847c769') in 0.0085309 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=681a87ce332439844086917586a0d90e DependenciesID=4eff61edb18aba0f7870bc2d958f50ff StaticDependenciesID=9151387c2e126645e651d6e1475185df 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 10
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.869569 seconds.
+  path: Assets/Environment/Sprites/SecondPalette.prefab
+  importAddress: Guid(4848e3b095eafbc4980da8a71cb2457b) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Environment/Sprites/SecondPalette.prefab using Guid(4848e3b095eafbc4980da8a71cb2457b) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: 'b8cd2f50928a1e8fa62794befc279ca7') in 0.0069721 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=721071a5e7972332c0229636252fb667 DependenciesID=36926a4ae765c76008e6893930233c65 StaticDependenciesID=063f5416bc9c6536436bb4d16a007287 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 10
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.252481 seconds.
+  path: Assets/Environment/Sprites/SecondPalette.prefab
+  importAddress: Guid(4848e3b095eafbc4980da8a71cb2457b) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Environment/Sprites/SecondPalette.prefab using Guid(4848e3b095eafbc4980da8a71cb2457b) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '4244b38e1813816f982b61428c9731a7') in 0.0078389 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=2fa661641b6c04c0c6612bc781b833e3 DependenciesID=d31116074c34bc970c9f2f80e4e007cd StaticDependenciesID=910be9cef3487237786ea6181482a369 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 10
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.198925 seconds.
+  path: Assets/Environment/Sprites/SecondPalette.prefab
+  importAddress: Guid(4848e3b095eafbc4980da8a71cb2457b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Environment/Sprites/SecondPalette.prefab using Guid(4848e3b095eafbc4980da8a71cb2457b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: '0327978760aa304bf5f0682f134b7be5') in 0.1369535 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=6f45c1ec155bac40f23e047f73d4f91b DependenciesID=996b6db91922fea60ac73b4ce9f90861 StaticDependenciesID=aaaf6855a108bd7adf436c1e523969e8 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 12
+
+========================================================================
+Received Import Request.
+  Time since last request: 15.375497 seconds.
+  path: Assets/Environment/Sprites/SecondPalette.prefab
+  importAddress: Guid(4848e3b095eafbc4980da8a71cb2457b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Environment/Sprites/SecondPalette.prefab using Guid(4848e3b095eafbc4980da8a71cb2457b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: '3cb75df85a4afc737946b110633e5af3') in 0.059286 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=623e76b46c040ce2b727e9254bbc8674 DependenciesID=9e1b47933d65a5145fce99ab01ea7546 StaticDependenciesID=2a3c131e2a6b97fb607d40fc4e42ab6c 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 10
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.869608 seconds.
+  path: Assets/Environment/Sprites/SecondPalette.prefab
+  importAddress: Guid(4848e3b095eafbc4980da8a71cb2457b) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Environment/Sprites/SecondPalette.prefab using Guid(4848e3b095eafbc4980da8a71cb2457b) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: 'a275b2d944be3cbb7152f0425ccdf114') in 0.0080887 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=84c14f4e2c3e038f153a96bc432b77ab DependenciesID=6fd97ad2b79339b4d6bf1808973adb8d StaticDependenciesID=11c6106b9f1b94170b1f529e0ad772a1 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 10
+
+========================================================================
+Received Import Request.
+  Time since last request: 18.678304 seconds.
+  path: Assets/Environment/Sprites/SecondPalette.prefab
+  importAddress: Guid(4848e3b095eafbc4980da8a71cb2457b) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Environment/Sprites/SecondPalette.prefab using Guid(4848e3b095eafbc4980da8a71cb2457b) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '725add703a65eccac9445c0990292c4c') in 0.0106527 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=433098131ce4357055621328d96d8ada DependenciesID=e2318ac4016aa569f8ccfac20b8f578c StaticDependenciesID=3c54db295654a52981f5cb2b5fa3a552 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 10
+
+========================================================================
+Received Import Request.
+  Time since last request: 140.441561 seconds.
+  path: Assets/Environment/Sprites/SecondPalette.prefab
+  importAddress: Guid(4848e3b095eafbc4980da8a71cb2457b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Environment/Sprites/SecondPalette.prefab using Guid(4848e3b095eafbc4980da8a71cb2457b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: '3b4a91421d3c513d2873ea76ecf67d57') in 0.0826153 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=deb9c4e0ebdb952a970c7a3f4ca7c0c7 DependenciesID=65e680ad605bd0e0d93ef73349a1cf66 StaticDependenciesID=f82690253d38ec70830b14e001fa9451 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 13
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.646690 seconds.
+  path: Assets/Environment/Sprites/SecondPalette.prefab
+  importAddress: Guid(4848e3b095eafbc4980da8a71cb2457b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Environment/Sprites/SecondPalette.prefab using Guid(4848e3b095eafbc4980da8a71cb2457b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: 'a0d7bffbe4d7e4ac2260971e7d244c4a') in 0.0513091 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=93652bb3cf9c27f04bcd606cb3b16194 DependenciesID=1a61158ce4e028ed0b64b7a6d279b917 StaticDependenciesID=defede16a679fa7c905fcb74cac4acd1 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 10
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.881691 seconds.
+  path: Assets/Tiles/Middleground1.asset
+  importAddress: Guid(7ba2912366b9c8c4ea35eccb426d91d1) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Tiles/Middleground1.asset using Guid(7ba2912366b9c8c4ea35eccb426d91d1) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: 'f2b28f3452d2f5943f7f32747d3d567c') in 0.0192998 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=c0f0d030cc1f2815e2405e9a4389d716 DependenciesID=9b80817a875fb8dbb972580538910751 StaticDependenciesID=f45bad808df6f488cf7604d6f54e9735 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 16.441776 seconds.
+  path: Assets/Environment/Sprites/SecondPalette.prefab
+  importAddress: Guid(4848e3b095eafbc4980da8a71cb2457b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Environment/Sprites/SecondPalette.prefab using Guid(4848e3b095eafbc4980da8a71cb2457b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: '86607297ae7b505d20a635166dcac3f3') in 0.0138893 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=7d5592b7efa4a3d27544eb8c15d78121 DependenciesID=fde55ffabb9b4f28d839db2edd5ca1ff StaticDependenciesID=d1c50638622ab4b9916bcc93df5aa079 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 10
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.908352 seconds.
+  path: Assets/Environment/Sprites/SecondPalette.prefab
+  importAddress: Guid(4848e3b095eafbc4980da8a71cb2457b) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Environment/Sprites/SecondPalette.prefab using Guid(4848e3b095eafbc4980da8a71cb2457b) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: 'b39e84ad65af7e711d26c992ae48564d') in 0.0116832 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=663d3913f96fa6b5e3cbd24a2f79591e DependenciesID=22d7bd53bc98ecb9c8136dcea9420370 StaticDependenciesID=f368841f410073819052afd235836738 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 10
+
+========================================================================
+Received Import Request.
+  Time since last request: 19.430392 seconds.
+  path: Assets/Environment/Sprites/SecondPalette.prefab
+  importAddress: Guid(4848e3b095eafbc4980da8a71cb2457b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Environment/Sprites/SecondPalette.prefab using Guid(4848e3b095eafbc4980da8a71cb2457b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: '57520556aa9e68d4f5ef85d08423f362') in 0.1168427 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=fcbc7477593ec59d688bda67d28e1a77 DependenciesID=955bccf53d094d076da541eafab9474c StaticDependenciesID=81fb89cc4773ad3f77a01964681add64 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 13
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.831991 seconds.
+  path: Assets/Environment/Middleground.asset
+  importAddress: Guid(c630240c0453ba74fa5fd37095744837) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Environment/Middleground.asset using Guid(c630240c0453ba74fa5fd37095744837) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '4d1e9bc04ce5a5f6b908f7ff4e42b1d7') in 0.0083673 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=3bbf0d8c018bf3903ff098ecd2cfa398 DependenciesID=1186dc9a3fd95131cc077597b889bb24 StaticDependenciesID=ef8cde90a877018e9306e58f2950a0bc 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 33.730142 seconds.
+  path: Assets/Environment/Sprites/SecondPalette.prefab
+  importAddress: Guid(4848e3b095eafbc4980da8a71cb2457b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Environment/Sprites/SecondPalette.prefab using Guid(4848e3b095eafbc4980da8a71cb2457b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: 'f945bfcac6b8f2586623f99d65bcd78a') in 0.0269208 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=544e9c7e0dd3b7d504d9f7da73e209a2 DependenciesID=d0b96de1aeafdd9781f3166f3dd0b0b3 StaticDependenciesID=e24de6affbf26cf1d67370e4fccc27e0 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 13
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.928747 seconds.
+  path: Assets/Environment/Sprites/SecondPalette.prefab
+  importAddress: Guid(4848e3b095eafbc4980da8a71cb2457b) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Environment/Sprites/SecondPalette.prefab using Guid(4848e3b095eafbc4980da8a71cb2457b) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '88f995a87f455a77a51203990b0a73a4') in 0.0073808 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=8309d9c694298c39d1c16a966e3f2756 DependenciesID=c6bf5429326d5520f3e7bb04c4c7f543 StaticDependenciesID=65048424e3744eb67ebe00e51abd7e18 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 10
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.840520 seconds.
+  path: Assets/Environment/Middleground.asset
+  importAddress: Guid(c630240c0453ba74fa5fd37095744837) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Environment/Middleground.asset using Guid(c630240c0453ba74fa5fd37095744837) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: '6e7f960765173e8dc6f5b8e3fd9dcbb8') in 0.1741764 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=8f484e7e91507da5fa214edd5366dc63 DependenciesID=e7d183e7c4e074db8a0f4b4616b0bf0d StaticDependenciesID=c1362b7e89d25c31653c6fd86eb959ab 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.617656 seconds.
+  path: Assets/Prefabs/TilePalette.prefab
+  importAddress: Guid(c02c4165d21a0fd488455befe67d7aac) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Prefabs/TilePalette.prefab using Guid(c02c4165d21a0fd488455befe67d7aac) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '68c7040bc6baf92ea3c314dda84456e8') in 0.0098145 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=29495e52bf598c866fdd7aba8dd04ab0 DependenciesID=dcb81c11a8966cb42ff8865df5452d4d StaticDependenciesID=9c3bfc5c57a77adec8f97c90d6a7fcb1 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 10
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.041245 seconds.
+  path: Assets/Prefabs/TilePalette.prefab
+  importAddress: Guid(c02c4165d21a0fd488455befe67d7aac) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Prefabs/TilePalette.prefab using Guid(c02c4165d21a0fd488455befe67d7aac) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '0af7a501ef6cef651e3b798133d77814') in 0.0081749 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=649d9df744b7ccfff5bae1ecb5d7b926 DependenciesID=3b0b68757446f712e3d66e76d5812ea8 StaticDependenciesID=942cf3f4a2142f5cdc26aa03431c65b3 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 10
+
+========================================================================
+Received Import Request.
+  Time since last request: 70.202716 seconds.
+  path: Assets/Prefabs/TilePalette.prefab
+  importAddress: Guid(c02c4165d21a0fd488455befe67d7aac) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Prefabs/TilePalette.prefab using Guid(c02c4165d21a0fd488455befe67d7aac) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: 'e593f4fde824bc59fe70ee5c8bbdab7b') in 0.0092466 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=36a52553e7d6df5eb3e10d9ed4ee5695 DependenciesID=f7a437536c62e38d05738c6b971ab82f StaticDependenciesID=893a5f6f9d58070b7dccf3e197d7ba71 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 10
+
+========================================================================
+Received Import Request.
+  Time since last request: 497.624088 seconds.
+  path: Assets/Environment/Sprites/SecondPalette.prefab
+  importAddress: Guid(4848e3b095eafbc4980da8a71cb2457b) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Environment/Sprites/SecondPalette.prefab using Guid(4848e3b095eafbc4980da8a71cb2457b) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '5cd8419f8ba2522cbd140522e9b0d966') in 0.0106362 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=f214029a87ebd85f02764b5eefd10668 DependenciesID=2e17c0026ecd7af870035f1488e29f7e StaticDependenciesID=7dd75d0ce3fc47eabd0f6c9d6e4eac99 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 10
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.228818 seconds.
+  path: Assets/Environment/Sprites/SecondPalette.prefab
+  importAddress: Guid(4848e3b095eafbc4980da8a71cb2457b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Environment/Sprites/SecondPalette.prefab using Guid(4848e3b095eafbc4980da8a71cb2457b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: '01837b4a0b4873db3e3e0a5c5a411882') in 0.012719 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=6f45c1ec155bac40f23e047f73d4f91b DependenciesID=d81bf7c1c740227abae4571bb4cb0d70 StaticDependenciesID=2064f90e8ca6e9e0eb1d1587284582eb 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 13
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.785953 seconds.
+  path: Assets/Environment/Sprites/MidgroundFill.png
+  importAddress: Guid(43efe596f8e63be4fb4a0bf7c1066b58) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Environment/Sprites/MidgroundFill.png using Guid(43efe596f8e63be4fb4a0bf7c1066b58) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: '6857c65b6b5e795d8a0697bb54833225') in 0.0135356 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=b6a6dd967eadeab24aa218a24139d356 DependenciesID=896d62984e7fde827751b8f69fab6591 StaticDependenciesID=fa305e7b0fede89335c1b1defd9035d6 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.022895 seconds.
+  path: Assets/Environment/Sprites/Tree 1.png
+  importAddress: Guid(1d29adfaf7ef4e34e8e7bb7902f5ca9f) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Environment/Sprites/Tree 1.png using Guid(1d29adfaf7ef4e34e8e7bb7902f5ca9f) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '88f8955701679865dca7fda953ff7ccc') in 0.0167796 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=fff4b41ddf3465bbd3f4417f42886ab0 DependenciesID=55abc9ab56e5cef88298dae4bfc17e6b StaticDependenciesID=58561d7f28058a4ea5e20da738ef2c7c 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 17.930122 seconds.
+  path: Assets/Environment/Sprites/SecondPalette.prefab
+  importAddress: Guid(4848e3b095eafbc4980da8a71cb2457b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Environment/Sprites/SecondPalette.prefab using Guid(4848e3b095eafbc4980da8a71cb2457b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: 'eacf60faea1619c2313f67e025712af0') in 0.023517 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=6f45c1ec155bac40f23e047f73d4f91b DependenciesID=56b969bfd6e95278465e830f42fa8988 StaticDependenciesID=626ce134a58215e85549b22cf0fb9fe8 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 13
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.922618 seconds.
+  path: Assets/Environment/MidgroundFill_0.asset
+  importAddress: Guid(acd1e5b9edd757e44a16d92c2d669a37) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Environment/MidgroundFill_0.asset using Guid(acd1e5b9edd757e44a16d92c2d669a37) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '049cc494044e8109faa4f07d2e2ed2f9') in 0.0076912 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=0f9ad672c94c08110ae8dd26ff3b405d DependenciesID=4caa0940c8e1428298d455fa29f80555 StaticDependenciesID=aabf19c75fd0d747ae309caa601c9164 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 18.020352 seconds.
+  path: Assets/Prefabs/TilePalette.prefab
+  importAddress: Guid(c02c4165d21a0fd488455befe67d7aac) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Prefabs/TilePalette.prefab using Guid(c02c4165d21a0fd488455befe67d7aac) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '6b3baed7df5cb77e8affa9f52fe599c3') in 0.0106712 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=72a836f6a30767d89323860b17bbc2e8 DependenciesID=972a38847304cd38abde86431647e5a8 StaticDependenciesID=8d06915e3dca1878332b0a5d3c961435 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 10
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.967659 seconds.
+  path: Assets/Environment/Tree 1_0.asset
+  importAddress: Guid(f63c67dcf05cc22458d271f4bb32abf9) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Environment/Tree 1_0.asset using Guid(f63c67dcf05cc22458d271f4bb32abf9) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: 'e22c0a7eae56f577f98b58f869f5f8a4') in 0.012949 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=f650d256357e0f8e69ec14f3dde3ae1c DependenciesID=6b962b72f1edc42a72287fcc007d84b3 StaticDependenciesID=ce31fb02e33f51ad45a05a4b5f19219f 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 26.364697 seconds.
+  path: Assets/Prefabs/TilePalette.prefab
+  importAddress: Guid(c02c4165d21a0fd488455befe67d7aac) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Prefabs/TilePalette.prefab using Guid(c02c4165d21a0fd488455befe67d7aac) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '0c87f4d51d9fd6b6fd1d65398948c6c4') in 0.007993 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=8bba6e18b04819f8a8f66b43acc44b7c DependenciesID=8690281082243b47f9f63bec44ac8cf7 StaticDependenciesID=5f624402a06b9d09faf22af1d2aec734 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 10
+
+========================================================================
+Received Import Request.
+  Time since last request: 633.861449 seconds.
+  path: Assets/Scenes/Scene_1.unity
+  importAddress: Guid(2cda990e2423bbf4892e6590ba056729) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Scenes/Scene_1.unity using Guid(2cda990e2423bbf4892e6590ba056729) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: 'a257e0c4a82397f4474ad5621816d146') in 0.0210089 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=77d49e1d4752fbc8d7b6d39f3153c8c8 DependenciesID=bdde22e91620c501b5742b1e9226f056 StaticDependenciesID=7edcbfb6bd634c3831527b0057657061 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 537.605850 seconds.
+  path: Assets/Environment/Sprites/Fire.png
+  importAddress: Guid(26612da0886cf564b9ebebb855b470a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Environment/Sprites/Fire.png using Guid(26612da0886cf564b9ebebb855b470a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: '25bcfea6dcf4b7361db33dbfc12d074d') in 0.0163461 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=4493e69e6ee283bb224274372fba4e07 DependenciesID=8af0dab105513c2e36779319ff8f38b8 StaticDependenciesID=4f60a287a9e7f9cac5a8215e06304fa3 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.953344 seconds.
+  path: Assets/Environment/Sprites/Fire.png
+  importAddress: Guid(26612da0886cf564b9ebebb855b470a3) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Environment/Sprites/Fire.png using Guid(26612da0886cf564b9ebebb855b470a3) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '484a7360ec7a400db12290efb0dd29c0') in 0.0125154 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=cfa4aef113ab1686865f77a3887c2bc2 DependenciesID=5e1374e5f522631491a19ee290dd5c49 StaticDependenciesID=bc3aa1ebad65d0039aa9f213723dee11 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.815139 seconds.
+  path: Assets/Environment/Sprites/Fire.png
+  importAddress: Guid(26612da0886cf564b9ebebb855b470a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Environment/Sprites/Fire.png using Guid(26612da0886cf564b9ebebb855b470a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: 'c13aa071f6bd0472c6ba22dd7032770f') in 0.0117 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=6318d4b84894c3156e17b6f74883acbd DependenciesID=c5e7e67965e5a1f165dfcdb96789a3ca StaticDependenciesID=f9eb7fd2ef28bb99ffec5c4d73d9e590 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.954467 seconds.
+  path: Assets/Environment/Sprites/Fire.png
+  importAddress: Guid(26612da0886cf564b9ebebb855b470a3) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Environment/Sprites/Fire.png using Guid(26612da0886cf564b9ebebb855b470a3) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '2b6d6c9c63df4aafea18a9cefdd8243e') in 0.009691 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=ee8953f9cddf813521210573483dd796 DependenciesID=91301f5b340ded0a06fc2bb40f6574b1 StaticDependenciesID=05c8a77ca324e15bec9d99c1e2866181 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.731723 seconds.
+  path: Assets/Environment/Fire.asset
+  importAddress: Guid(d66f3c5ff7476bf40a3e99aec018e9d5) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Environment/Fire.asset using Guid(d66f3c5ff7476bf40a3e99aec018e9d5) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: 'c7acb3b6b232a0e782c5e75a7ed86510') in 0.0096043 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=a294b38d371e7649a81f3dbe50a2fd9a DependenciesID=ba04aa425fe7fe8d7aea8a630a64e5e2 StaticDependenciesID=7d5e7033db65477b1d5acabad65f2ea7 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 56.457476 seconds.
+  path: Assets/Prefabs/TilePalette.prefab
+  importAddress: Guid(c02c4165d21a0fd488455befe67d7aac) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Prefabs/TilePalette.prefab using Guid(c02c4165d21a0fd488455befe67d7aac) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: 'cc6d2a07a29450661b613096f1c2fbd0') in 0.0082217 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=8902ace093efcf35bd09eecd72abd6e7 DependenciesID=f465a2a7da98dadb597529eed511b5be StaticDependenciesID=937d38e81c60e71126babd8162f5856a 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 10
+
+========================================================================
+Received Import Request.
+  Time since last request: 19.970569 seconds.
+  path: Assets/Environment/Sprites/SecondPalette.prefab
+  importAddress: Guid(4848e3b095eafbc4980da8a71cb2457b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Environment/Sprites/SecondPalette.prefab using Guid(4848e3b095eafbc4980da8a71cb2457b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: '0084c8ca7e698b9a98d48b1d0828f004') in 0.0107564 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=9ef2d15d6de55709f432d89972ea48f0 DependenciesID=8be3bdd039cf074b8af923ac087bb008 StaticDependenciesID=ca709b9b90fe9810b411dd5d170163cf 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 10
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.946048 seconds.
+  path: Assets/Environment/Sprites/SecondPalette.prefab
+  importAddress: Guid(4848e3b095eafbc4980da8a71cb2457b) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Environment/Sprites/SecondPalette.prefab using Guid(4848e3b095eafbc4980da8a71cb2457b) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '508d1476632f0051bbe476856e6899b5') in 0.0076634 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=098f25f49f99eb3ff7c09a6f134dba5d DependenciesID=b9e9ba9d063c749a984661e1a33bcc73 StaticDependenciesID=658efa9c5336ae3d0c938506d19897a4 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 10
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.153377 seconds.
+  path: Assets/Environment/Fire.asset
+  importAddress: Guid(d66f3c5ff7476bf40a3e99aec018e9d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Environment/Fire.asset using Guid(d66f3c5ff7476bf40a3e99aec018e9d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: '4004fcab650b08cb51590a97063a1f16') in 0.0119664 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=8a1dfbb6de505c769c1daa91edee4fb6 DependenciesID=e769f40ae597381f16077386fcab647c StaticDependenciesID=7f6890f10a415b55b09a40080b08ee98 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Environment/Tree 1_0.asset
+  importAddress: Guid(f63c67dcf05cc22458d271f4bb32abf9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Environment/Tree 1_0.asset using Guid(f63c67dcf05cc22458d271f4bb32abf9) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: 'a30a66ad79ec1d8a1416bf2c041cb3b4') in 0.0755414 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=09af372905dd324c9e96f2d1be86ba17 DependenciesID=05cabad32dac98cdb01547947a65d041 StaticDependenciesID=f0b977466f5e661c907fe14269def7e2 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.733466 seconds.
+  path: Assets/Environment/Fire.asset
+  importAddress: Guid(d66f3c5ff7476bf40a3e99aec018e9d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Environment/Fire.asset using Guid(d66f3c5ff7476bf40a3e99aec018e9d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: 'cfd13f776045e4dd5858670b67f25ebb') in 0.0196613 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=8a1dfbb6de505c769c1daa91edee4fb6 DependenciesID=0325753a62492517b60f8dccaa65d269 StaticDependenciesID=7f6890f10a415b55b09a40080b08ee98 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.924323 seconds.
+  path: Assets/Environment/Sprites/Fire.png
+  importAddress: Guid(26612da0886cf564b9ebebb855b470a3) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Environment/Sprites/Fire.png using Guid(26612da0886cf564b9ebebb855b470a3) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: 'c4c30b0539fded3beb12ee323afd1680') in 0.0146465 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=899b682058f1172d0c8bb88c26d20950 DependenciesID=49119ccb886d5caaf003a3c9bece710c StaticDependenciesID=b78a8d6afa1c58b59b9ebd52aeac0c6d 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.181188 seconds.
+  path: Assets/Prefabs/TilePalette.prefab
+  importAddress: Guid(c02c4165d21a0fd488455befe67d7aac) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Prefabs/TilePalette.prefab using Guid(c02c4165d21a0fd488455befe67d7aac) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: 'bf4247088438c59ecf821c2ad49d8619') in 0.007656 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=789d49e2f07f448fd4f5eb0985072ee1 DependenciesID=6571b0a2c99908229ca84be4bf5363e0 StaticDependenciesID=39b9af08653ab7a4e5891c31d720d312 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 10
+
+========================================================================
+Received Import Request.
+  Time since last request: 434.781175 seconds.
+  path: Assets/Scenes/Scene_1.unity
+  importAddress: Guid(2cda990e2423bbf4892e6590ba056729) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Scenes/Scene_1.unity using Guid(2cda990e2423bbf4892e6590ba056729) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '75df826bd9acdfaef65e135c99db6483') in 0.0183308 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=c742d7a8147b7a1d69c578be9e39238b DependenciesID=08d6ef9c22cd0eaf9e79ba25c1168007 StaticDependenciesID=d5127a0980cbf08044811ac6ba1b4961 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 247.804702 seconds.
+  path: Assets/Environment/Sprites/Fire.png
+  importAddress: Guid(26612da0886cf564b9ebebb855b470a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Environment/Sprites/Fire.png using Guid(26612da0886cf564b9ebebb855b470a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: 'a84acb95fa56980da2dde3191c743046') in 0.0250518 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=6318d4b84894c3156e17b6f74883acbd DependenciesID=656bdbd322afccd7ca6aa3270d73c188 StaticDependenciesID=613fa9ae7f80c888b2614507ffdf8a34 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.794562 seconds.
+  path: Assets/Environment/Sprites/Block.png
+  importAddress: Guid(a4d801f62e301a4448c046b28590a59e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Environment/Sprites/Block.png using Guid(a4d801f62e301a4448c046b28590a59e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: 'eac0675d905e1fe3341067d6d41efa8c') in 0.0168116 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=d640df2909012ad18ca0a89af958088d DependenciesID=f494d393031de3a59ff162165856586f StaticDependenciesID=aa5eaceef6637acc7c839a09ab1d4765 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.936611 seconds.
+  path: Assets/Environment/Sprites/Block.png
+  importAddress: Guid(a4d801f62e301a4448c046b28590a59e) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Environment/Sprites/Block.png using Guid(a4d801f62e301a4448c046b28590a59e) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '7f2816df6519ebbfaf46cd43e1cdf9dd') in 0.0184588 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=4c032e9a304cdf7cd5edcf7840e3d9c4 DependenciesID=6c8c7327452a4b2762d269f47abf354a StaticDependenciesID=b655cd635a88a2b210d2327723f97dbe 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.230536 seconds.
+  path: Assets/Environment/Sprites/Block.png
+  importAddress: Guid(a4d801f62e301a4448c046b28590a59e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Environment/Sprites/Block.png using Guid(a4d801f62e301a4448c046b28590a59e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: 'ddb63cd773872cf6d9fec69c23b43fd3') in 0.0167901 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=b7577db1e18a89503891f65f83611fae DependenciesID=6e44d72336cb327e2a34613fd657502f StaticDependenciesID=e99d8298a9c931342e057df86cb04b1c 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.941633 seconds.
+  path: Assets/Environment/Sprites/Block.png
+  importAddress: Guid(a4d801f62e301a4448c046b28590a59e) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Environment/Sprites/Block.png using Guid(a4d801f62e301a4448c046b28590a59e) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '12412bc7dd7dedfbf776d0f35226b250') in 0.0120704 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=d17d550ea24614ebd89038408b441711 DependenciesID=176ef3b63e6ec7faa74e7bb6e9c1f4c4 StaticDependenciesID=3729848e54886fcc66a40ecd361eb76f 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 19.529002 seconds.
+  path: Assets/Environment/Block.asset
+  importAddress: Guid(5ee997f38798c86428519de98ae05bd4) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Environment/Block.asset using Guid(5ee997f38798c86428519de98ae05bd4) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: 'f419cdb29172e0871e3ba0e2e9590010') in 0.0086069 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=822929850490995b608e77f13693f72d DependenciesID=506db55ba709bf3d42d231dfdb2087fd StaticDependenciesID=29af2f4911c957d68d428b81a23dfa10 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.997957 seconds.
+  path: Assets/Environment/Sprites/Block.png
+  importAddress: Guid(a4d801f62e301a4448c046b28590a59e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Environment/Sprites/Block.png using Guid(a4d801f62e301a4448c046b28590a59e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: '9b7f11c05de0749bd598b795e3b6fa1b') in 0.0069705 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=b7577db1e18a89503891f65f83611fae DependenciesID=002c2ae4923fead34069f862d0f23c89 StaticDependenciesID=65e224b35db0e678d7a540259da6de38 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.934977 seconds.
+  path: Assets/Environment/Sprites/Block.png
+  importAddress: Guid(a4d801f62e301a4448c046b28590a59e) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Environment/Sprites/Block.png using Guid(a4d801f62e301a4448c046b28590a59e) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '6add8537a864eadbad9edd23eb37ea3c') in 0.0125693 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=d675cb2a15dfb01026bef2c77514fb3b DependenciesID=798722787d34a7f38477f03a640e4643 StaticDependenciesID=ab52c50c96f9adea26f605aac7340922 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 26.980545 seconds.
+  path: Assets/Environment/Sprites/Block.png
+  importAddress: Guid(a4d801f62e301a4448c046b28590a59e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Environment/Sprites/Block.png using Guid(a4d801f62e301a4448c046b28590a59e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: 'bb29f5ab0f6066238610b4c7ae7a044e') in 0.2863652 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=b7577db1e18a89503891f65f83611fae DependenciesID=3bcd2197f30ed5c13bc0b4633c25b0b8 StaticDependenciesID=afd2cdaf62fd7287db21f03c3bc26556 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.666104 seconds.
+  path: Assets/Environment/Sprites/Block.png
+  importAddress: Guid(a4d801f62e301a4448c046b28590a59e) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Environment/Sprites/Block.png using Guid(a4d801f62e301a4448c046b28590a59e) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '6a3806fe26967b7d471afa13ff668675') in 0.0104037 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=bf6dffeb07b4edd460344fdb219d4b1f DependenciesID=6fba27deebcd35ef6aee9824a6b45989 StaticDependenciesID=9e1e1e7c63e6b9da6bf1e4a229a7bf26 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.692702 seconds.
+  path: Assets/Environment/Sprites/Block.png
+  importAddress: Guid(a4d801f62e301a4448c046b28590a59e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Environment/Sprites/Block.png using Guid(a4d801f62e301a4448c046b28590a59e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: '053875967d2668a2d485e03eddd5de3d') in 0.0090929 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=b7577db1e18a89503891f65f83611fae DependenciesID=0985e56ebcb491471d18ff242ff28475 StaticDependenciesID=7242c5501758b1515c1af9b05c1778ee 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.940261 seconds.
+  path: Assets/Environment/Sprites/Block.png
+  importAddress: Guid(a4d801f62e301a4448c046b28590a59e) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Environment/Sprites/Block.png using Guid(a4d801f62e301a4448c046b28590a59e) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '320d7d5a155654a9fe7ffea33fc242b9') in 0.0096891 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=52de2a582c86d3f891e4bbfcc67da4a6 DependenciesID=696f9ba1ede9571d95e8228b9118d64c StaticDependenciesID=56bce61f5de94d207090c8211b5e22c5 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 25.734766 seconds.
+  path: Assets/Prefabs/TilePalette.prefab
+  importAddress: Guid(c02c4165d21a0fd488455befe67d7aac) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Prefabs/TilePalette.prefab using Guid(c02c4165d21a0fd488455befe67d7aac) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '1285cf38ff72803e0a45f9fbf09a6bd6') in 0.0086018 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=b12e93b517033ad58b4db3b7e86a096c DependenciesID=cabe8f939ea562d8f2d5d25b1e6017b4 StaticDependenciesID=0780a24b1ef25a0c04dc302e3eeab6fc 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 10
+
+========================================================================
+Received Import Request.
+  Time since last request: 84.518838 seconds.
+  path: Assets/Environment/Sprites/Block (2).png
+  importAddress: Guid(aec4966f6ad6edd498a1f0f4479ad9a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Environment/Sprites/Block (2).png using Guid(aec4966f6ad6edd498a1f0f4479ad9a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: 'e70581db059167539d783eda70927d38') in 0.0146324 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=10a736c41d788a35bb4c177d1acd4872 DependenciesID=b68d31b364b3beb98ed66b57f6d39d86 StaticDependenciesID=a391511f832f901f1696a8efe5c7174f 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.942032 seconds.
+  path: Assets/Environment/Sprites/Block (2).png
+  importAddress: Guid(aec4966f6ad6edd498a1f0f4479ad9a1) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Environment/Sprites/Block (2).png using Guid(aec4966f6ad6edd498a1f0f4479ad9a1) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '13288bb90296b27fd3d6a64760a103a1') in 0.01031 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=715b0ab6e24c19e8ad41a2e88bab3bde DependenciesID=305d15ad4c8b269a2f588fdab8128a2d StaticDependenciesID=680fb56452b510bc5070ef7804199286 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.367539 seconds.
+  path: Assets/Environment/Sprites/Block (2).png
+  importAddress: Guid(aec4966f6ad6edd498a1f0f4479ad9a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Environment/Sprites/Block (2).png using Guid(aec4966f6ad6edd498a1f0f4479ad9a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: '76f71e6ac0476aaaa47f71fc26d99532') in 0.0109398 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=56c82033dcd679c320f3677329b0cfb0 DependenciesID=57d55d772eda9569ca78e5e1953fd8ca StaticDependenciesID=94572bd382162603cd45fe77e384001f 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.934814 seconds.
+  path: Assets/Environment/Sprites/Block (2).png
+  importAddress: Guid(aec4966f6ad6edd498a1f0f4479ad9a1) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Environment/Sprites/Block (2).png using Guid(aec4966f6ad6edd498a1f0f4479ad9a1) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '68d49c5b88a3a59c7e29925d2feaca27') in 0.0119799 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=06796f44309f8925a7f303d5f745316a DependenciesID=6809caa0b5bb3a749c9cf0cabc6a3089 StaticDependenciesID=a203a05daccd9e7f52f124a76b9f59ae 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.251151 seconds.
+  path: Assets/Environment/Block (2).asset
+  importAddress: Guid(dbd783a1cbe0a3c47ac28ac8ab29d524) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Environment/Block (2).asset using Guid(dbd783a1cbe0a3c47ac28ac8ab29d524) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: 'b4de2ee6fe7ce68409ece8dad3fa6ed9') in 0.0118285 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=24f7f217128369c246fdf0e2a1a89bbe DependenciesID=e907658ba04f1b39bd51e289ddc601d1 StaticDependenciesID=7ff787c20b3bf67023f5b37a06bdf919 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.745577 seconds.
+  path: Assets/Environment/Sprites/Block (2).png
+  importAddress: Guid(aec4966f6ad6edd498a1f0f4479ad9a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Environment/Sprites/Block (2).png using Guid(aec4966f6ad6edd498a1f0f4479ad9a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: '2d80cce8dbf53298790d3eaf41c75b3a') in 0.2262925 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=56c82033dcd679c320f3677329b0cfb0 DependenciesID=170996646d250a829f21c51897b7b8d4 StaticDependenciesID=3ca16fc5eb36cff9dfc23bb50907874b 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.724493 seconds.
+  path: Assets/Environment/Sprites/Block (2).png
+  importAddress: Guid(aec4966f6ad6edd498a1f0f4479ad9a1) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Environment/Sprites/Block (2).png using Guid(aec4966f6ad6edd498a1f0f4479ad9a1) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '6c5cf2c21995e57909fbd9761a6f7e01') in 0.011975 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=d2e592586c1603ac46f85ce116bfcad5 DependenciesID=c222633d9c0c3ddcdc45c303989fa54a StaticDependenciesID=6be86af974bd8de1874464412a90cde2 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 1557.592285 seconds.
+  path: Assets/Scenes/Scene_1.unity
+  importAddress: Guid(2cda990e2423bbf4892e6590ba056729) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Scenes/Scene_1.unity using Guid(2cda990e2423bbf4892e6590ba056729) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '06aa474efaf1e022f93bf0a1ca812a3b') in 0.0212786 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=ccc32915cac0ae93af242f5bf89429e2 DependenciesID=681306010652ddba1fcbaf0af09af640 StaticDependenciesID=489771679cff70efb8a20672cfca0424 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
