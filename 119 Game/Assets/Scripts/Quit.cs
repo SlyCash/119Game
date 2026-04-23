@@ -33,7 +33,7 @@ public class Quit : MonoBehaviour
             if (!lastFrameExit)
             {
                 Application.Quit();
-                UnityEditor.EditorApplication.isPlaying = false;
+                //UnityEditor.EditorApplication.isPlaying = false;
             }
         }
         else

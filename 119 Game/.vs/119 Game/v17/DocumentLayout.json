@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "D:\\Profiles\\smc4598\\Documents\\GitHub\\119Game\\119 Game\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{61609FC8-FF32-6956-64F3-F88C603B908B}|Assembly-CSharp.csproj|D:\\Profiles\\smc4598\\Documents\\GitHub\\119Game\\119 Game\\assets\\scripts\\quit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{61609FC8-FF32-6956-64F3-F88C603B908B}|Assembly-CSharp.csproj|D:\\Profiles\\smc4598\\Documents\\GitHub\\119Game\\119 Game\\assets\\scripts\\quitbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61609FC8-FF32-6956-64F3-F88C603B908B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\quitbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61609FC8-FF32-6956-64F3-F88C603B908B}|Assembly-CSharp.csproj|d:\\profiles\\smc4598\\documents\\github\\119game\\119 game\\assets\\scripts\\quit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{61609FC8-FF32-6956-64F3-F88C603B908B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\quit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{61609FC8-FF32-6956-64F3-F88C603B908B}|Assembly-CSharp.csproj|D:\\Profiles\\smc4598\\Documents\\GitHub\\119Game\\119 Game\\assets\\scripts\\ui\\mainuicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{61609FC8-FF32-6956-64F3-F88C603B908B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\mainuicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{61609FC8-FF32-6956-64F3-F88C603B908B}|Assembly-CSharp.csproj|D:\\Profiles\\smc4598\\Documents\\GitHub\\119Game\\119 Game\\assets\\scripts\\quitbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{61609FC8-FF32-6956-64F3-F88C603B908B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\quitbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Profiles\\smc4598\\Documents\\GitHub\\119Game\\119 Game\\Library\\PackageCache\\com.unity.2d.tilemap@533f309b6f37\\Editor\\GridPaintPaletteClipboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
@@ -38,12 +38,11 @@
               "RelativeToolTip": "Library\\PackageCache\\com.unity.2d.tilemap@533f309b6f37\\Editor\\GridPaintPaletteClipboard.cs",
               "ViewState": "AgIAANoHAAAAAAAAAAAawPgHAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-21T23:04:57.524Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-21T23:04:57.524Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "MainUIController.cs",
               "DocumentMoniker": "D:\\Profiles\\smc4598\\Documents\\GitHub\\119Game\\119 Game\\Assets\\Scripts\\UI\\MainUIController.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\MainUIController.cs",
@@ -51,31 +50,30 @@
               "RelativeToolTip": "Assets\\Scripts\\UI\\MainUIController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-21T19:02:22.014Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-21T19:02:22.014Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Quit.cs",
               "DocumentMoniker": "D:\\Profiles\\smc4598\\Documents\\GitHub\\119Game\\119 Game\\Assets\\Scripts\\Quit.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Quit.cs",
               "ToolTip": "D:\\Profiles\\smc4598\\Documents\\GitHub\\119Game\\119 Game\\Assets\\Scripts\\Quit.cs",
               "RelativeToolTip": "Assets\\Scripts\\Quit.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-21T19:00:55.624Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "QuitButton.cs",
               "DocumentMoniker": "D:\\Profiles\\smc4598\\Documents\\GitHub\\119Game\\119 Game\\Assets\\Scripts\\QuitButton.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\QuitButton.cs",
               "ToolTip": "D:\\Profiles\\smc4598\\Documents\\GitHub\\119Game\\119 Game\\Assets\\Scripts\\QuitButton.cs",
               "RelativeToolTip": "Assets\\Scripts\\QuitButton.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA4AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-21T19:00:52.323Z",
               "EditorCaption": ""
