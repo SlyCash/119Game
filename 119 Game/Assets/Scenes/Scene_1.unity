@@ -166,7 +166,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 92e2dcc1fb4364cdf887c66f39f76f82, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  tokenCollectAudio: {fileID: 8300000, guid: bf527d825758e5b4ca7b69f5a02d9a56, type: 3}
+  tokenCollectAudio: {fileID: 8300000, guid: 793302cb659188e4099193a1059a8eef, type: 3}
   randomAnimationStartTime: 1
   idleAnimation:
   - {fileID: 21300000, guid: c36b0e54a8d8340759ab2f1394787f1f, type: 3}
@@ -333,7 +333,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 92e2dcc1fb4364cdf887c66f39f76f82, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  tokenCollectAudio: {fileID: 8300000, guid: bf527d825758e5b4ca7b69f5a02d9a56, type: 3}
+  tokenCollectAudio: {fileID: 8300000, guid: 793302cb659188e4099193a1059a8eef, type: 3}
   randomAnimationStartTime: 1
   idleAnimation:
   - {fileID: 21300000, guid: c36b0e54a8d8340759ab2f1394787f1f, type: 3}
@@ -597,7 +597,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 92e2dcc1fb4364cdf887c66f39f76f82, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  tokenCollectAudio: {fileID: 8300000, guid: bf527d825758e5b4ca7b69f5a02d9a56, type: 3}
+  tokenCollectAudio: {fileID: 8300000, guid: 793302cb659188e4099193a1059a8eef, type: 3}
   randomAnimationStartTime: 1
   idleAnimation:
   - {fileID: 21300000, guid: c36b0e54a8d8340759ab2f1394787f1f, type: 3}
@@ -860,7 +860,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 92e2dcc1fb4364cdf887c66f39f76f82, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  tokenCollectAudio: {fileID: 8300000, guid: bf527d825758e5b4ca7b69f5a02d9a56, type: 3}
+  tokenCollectAudio: {fileID: 8300000, guid: 793302cb659188e4099193a1059a8eef, type: 3}
   randomAnimationStartTime: 1
   idleAnimation:
   - {fileID: 21300000, guid: c36b0e54a8d8340759ab2f1394787f1f, type: 3}
@@ -1027,7 +1027,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 92e2dcc1fb4364cdf887c66f39f76f82, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  tokenCollectAudio: {fileID: 8300000, guid: bf527d825758e5b4ca7b69f5a02d9a56, type: 3}
+  tokenCollectAudio: {fileID: 8300000, guid: 793302cb659188e4099193a1059a8eef, type: 3}
   randomAnimationStartTime: 1
   idleAnimation:
   - {fileID: 21300000, guid: c36b0e54a8d8340759ab2f1394787f1f, type: 3}
@@ -1334,7 +1334,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 92e2dcc1fb4364cdf887c66f39f76f82, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  tokenCollectAudio: {fileID: 8300000, guid: bf527d825758e5b4ca7b69f5a02d9a56, type: 3}
+  tokenCollectAudio: {fileID: 8300000, guid: 793302cb659188e4099193a1059a8eef, type: 3}
   randomAnimationStartTime: 1
   idleAnimation:
   - {fileID: 21300000, guid: c36b0e54a8d8340759ab2f1394787f1f, type: 3}
@@ -1642,7 +1642,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 92e2dcc1fb4364cdf887c66f39f76f82, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  tokenCollectAudio: {fileID: 8300000, guid: bf527d825758e5b4ca7b69f5a02d9a56, type: 3}
+  tokenCollectAudio: {fileID: 8300000, guid: 793302cb659188e4099193a1059a8eef, type: 3}
   randomAnimationStartTime: 1
   idleAnimation:
   - {fileID: 21300000, guid: c36b0e54a8d8340759ab2f1394787f1f, type: 3}
@@ -1809,7 +1809,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 92e2dcc1fb4364cdf887c66f39f76f82, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  tokenCollectAudio: {fileID: 8300000, guid: bf527d825758e5b4ca7b69f5a02d9a56, type: 3}
+  tokenCollectAudio: {fileID: 8300000, guid: 793302cb659188e4099193a1059a8eef, type: 3}
   randomAnimationStartTime: 1
   idleAnimation:
   - {fileID: 21300000, guid: c36b0e54a8d8340759ab2f1394787f1f, type: 3}
@@ -1976,7 +1976,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 92e2dcc1fb4364cdf887c66f39f76f82, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  tokenCollectAudio: {fileID: 8300000, guid: bf527d825758e5b4ca7b69f5a02d9a56, type: 3}
+  tokenCollectAudio: {fileID: 8300000, guid: 793302cb659188e4099193a1059a8eef, type: 3}
   randomAnimationStartTime: 1
   idleAnimation:
   - {fileID: 21300000, guid: c36b0e54a8d8340759ab2f1394787f1f, type: 3}
@@ -2143,7 +2143,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 92e2dcc1fb4364cdf887c66f39f76f82, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  tokenCollectAudio: {fileID: 8300000, guid: bf527d825758e5b4ca7b69f5a02d9a56, type: 3}
+  tokenCollectAudio: {fileID: 8300000, guid: 793302cb659188e4099193a1059a8eef, type: 3}
   randomAnimationStartTime: 1
   idleAnimation:
   - {fileID: 21300000, guid: c36b0e54a8d8340759ab2f1394787f1f, type: 3}
@@ -2310,7 +2310,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 92e2dcc1fb4364cdf887c66f39f76f82, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  tokenCollectAudio: {fileID: 8300000, guid: bf527d825758e5b4ca7b69f5a02d9a56, type: 3}
+  tokenCollectAudio: {fileID: 8300000, guid: 793302cb659188e4099193a1059a8eef, type: 3}
   randomAnimationStartTime: 1
   idleAnimation:
   - {fileID: 21300000, guid: c36b0e54a8d8340759ab2f1394787f1f, type: 3}
@@ -2477,7 +2477,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 92e2dcc1fb4364cdf887c66f39f76f82, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  tokenCollectAudio: {fileID: 8300000, guid: bf527d825758e5b4ca7b69f5a02d9a56, type: 3}
+  tokenCollectAudio: {fileID: 8300000, guid: 793302cb659188e4099193a1059a8eef, type: 3}
   randomAnimationStartTime: 1
   idleAnimation:
   - {fileID: 21300000, guid: c36b0e54a8d8340759ab2f1394787f1f, type: 3}
@@ -2690,7 +2690,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 92e2dcc1fb4364cdf887c66f39f76f82, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  tokenCollectAudio: {fileID: 8300000, guid: bf527d825758e5b4ca7b69f5a02d9a56, type: 3}
+  tokenCollectAudio: {fileID: 8300000, guid: 793302cb659188e4099193a1059a8eef, type: 3}
   randomAnimationStartTime: 1
   idleAnimation:
   - {fileID: 21300000, guid: c36b0e54a8d8340759ab2f1394787f1f, type: 3}
@@ -2905,7 +2905,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 92e2dcc1fb4364cdf887c66f39f76f82, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  tokenCollectAudio: {fileID: 8300000, guid: bf527d825758e5b4ca7b69f5a02d9a56, type: 3}
+  tokenCollectAudio: {fileID: 8300000, guid: 793302cb659188e4099193a1059a8eef, type: 3}
   randomAnimationStartTime: 1
   idleAnimation:
   - {fileID: 21300000, guid: c36b0e54a8d8340759ab2f1394787f1f, type: 3}
@@ -3676,7 +3676,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 92e2dcc1fb4364cdf887c66f39f76f82, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  tokenCollectAudio: {fileID: 8300000, guid: bf527d825758e5b4ca7b69f5a02d9a56, type: 3}
+  tokenCollectAudio: {fileID: 8300000, guid: 793302cb659188e4099193a1059a8eef, type: 3}
   randomAnimationStartTime: 1
   idleAnimation:
   - {fileID: 21300000, guid: c36b0e54a8d8340759ab2f1394787f1f, type: 3}
@@ -3889,7 +3889,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 92e2dcc1fb4364cdf887c66f39f76f82, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  tokenCollectAudio: {fileID: 8300000, guid: bf527d825758e5b4ca7b69f5a02d9a56, type: 3}
+  tokenCollectAudio: {fileID: 8300000, guid: 793302cb659188e4099193a1059a8eef, type: 3}
   randomAnimationStartTime: 1
   idleAnimation:
   - {fileID: 21300000, guid: c36b0e54a8d8340759ab2f1394787f1f, type: 3}
@@ -4056,7 +4056,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 92e2dcc1fb4364cdf887c66f39f76f82, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  tokenCollectAudio: {fileID: 8300000, guid: bf527d825758e5b4ca7b69f5a02d9a56, type: 3}
+  tokenCollectAudio: {fileID: 8300000, guid: 793302cb659188e4099193a1059a8eef, type: 3}
   randomAnimationStartTime: 1
   idleAnimation:
   - {fileID: 21300000, guid: c36b0e54a8d8340759ab2f1394787f1f, type: 3}
@@ -4223,7 +4223,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 92e2dcc1fb4364cdf887c66f39f76f82, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  tokenCollectAudio: {fileID: 8300000, guid: bf527d825758e5b4ca7b69f5a02d9a56, type: 3}
+  tokenCollectAudio: {fileID: 8300000, guid: 793302cb659188e4099193a1059a8eef, type: 3}
   randomAnimationStartTime: 1
   idleAnimation:
   - {fileID: 21300000, guid: c36b0e54a8d8340759ab2f1394787f1f, type: 3}
@@ -4528,7 +4528,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 92e2dcc1fb4364cdf887c66f39f76f82, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  tokenCollectAudio: {fileID: 8300000, guid: bf527d825758e5b4ca7b69f5a02d9a56, type: 3}
+  tokenCollectAudio: {fileID: 8300000, guid: 793302cb659188e4099193a1059a8eef, type: 3}
   randomAnimationStartTime: 1
   idleAnimation:
   - {fileID: 21300000, guid: c36b0e54a8d8340759ab2f1394787f1f, type: 3}
@@ -4926,7 +4926,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 92e2dcc1fb4364cdf887c66f39f76f82, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  tokenCollectAudio: {fileID: 8300000, guid: bf527d825758e5b4ca7b69f5a02d9a56, type: 3}
+  tokenCollectAudio: {fileID: 8300000, guid: 793302cb659188e4099193a1059a8eef, type: 3}
   randomAnimationStartTime: 1
   idleAnimation:
   - {fileID: 21300000, guid: c36b0e54a8d8340759ab2f1394787f1f, type: 3}
@@ -5093,7 +5093,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 92e2dcc1fb4364cdf887c66f39f76f82, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  tokenCollectAudio: {fileID: 8300000, guid: bf527d825758e5b4ca7b69f5a02d9a56, type: 3}
+  tokenCollectAudio: {fileID: 8300000, guid: 793302cb659188e4099193a1059a8eef, type: 3}
   randomAnimationStartTime: 1
   idleAnimation:
   - {fileID: 21300000, guid: c36b0e54a8d8340759ab2f1394787f1f, type: 3}
@@ -5357,7 +5357,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 92e2dcc1fb4364cdf887c66f39f76f82, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  tokenCollectAudio: {fileID: 8300000, guid: bf527d825758e5b4ca7b69f5a02d9a56, type: 3}
+  tokenCollectAudio: {fileID: 8300000, guid: 793302cb659188e4099193a1059a8eef, type: 3}
   randomAnimationStartTime: 1
   idleAnimation:
   - {fileID: 21300000, guid: c36b0e54a8d8340759ab2f1394787f1f, type: 3}
@@ -5712,7 +5712,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 92e2dcc1fb4364cdf887c66f39f76f82, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  tokenCollectAudio: {fileID: 8300000, guid: bf527d825758e5b4ca7b69f5a02d9a56, type: 3}
+  tokenCollectAudio: {fileID: 8300000, guid: 793302cb659188e4099193a1059a8eef, type: 3}
   randomAnimationStartTime: 1
   idleAnimation:
   - {fileID: 21300000, guid: c36b0e54a8d8340759ab2f1394787f1f, type: 3}
@@ -5879,7 +5879,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 92e2dcc1fb4364cdf887c66f39f76f82, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  tokenCollectAudio: {fileID: 8300000, guid: bf527d825758e5b4ca7b69f5a02d9a56, type: 3}
+  tokenCollectAudio: {fileID: 8300000, guid: 793302cb659188e4099193a1059a8eef, type: 3}
   randomAnimationStartTime: 1
   idleAnimation:
   - {fileID: 21300000, guid: c36b0e54a8d8340759ab2f1394787f1f, type: 3}
@@ -97629,7 +97629,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 92e2dcc1fb4364cdf887c66f39f76f82, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  tokenCollectAudio: {fileID: 8300000, guid: bf527d825758e5b4ca7b69f5a02d9a56, type: 3}
+  tokenCollectAudio: {fileID: 8300000, guid: 793302cb659188e4099193a1059a8eef, type: 3}
   randomAnimationStartTime: 1
   idleAnimation:
   - {fileID: 21300000, guid: c36b0e54a8d8340759ab2f1394787f1f, type: 3}
@@ -97796,7 +97796,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 92e2dcc1fb4364cdf887c66f39f76f82, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  tokenCollectAudio: {fileID: 8300000, guid: bf527d825758e5b4ca7b69f5a02d9a56, type: 3}
+  tokenCollectAudio: {fileID: 8300000, guid: 793302cb659188e4099193a1059a8eef, type: 3}
   randomAnimationStartTime: 1
   idleAnimation:
   - {fileID: 21300000, guid: c36b0e54a8d8340759ab2f1394787f1f, type: 3}
@@ -97963,7 +97963,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 92e2dcc1fb4364cdf887c66f39f76f82, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  tokenCollectAudio: {fileID: 8300000, guid: bf527d825758e5b4ca7b69f5a02d9a56, type: 3}
+  tokenCollectAudio: {fileID: 8300000, guid: 793302cb659188e4099193a1059a8eef, type: 3}
   randomAnimationStartTime: 1
   idleAnimation:
   - {fileID: 21300000, guid: c36b0e54a8d8340759ab2f1394787f1f, type: 3}
@@ -98130,7 +98130,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 92e2dcc1fb4364cdf887c66f39f76f82, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  tokenCollectAudio: {fileID: 8300000, guid: bf527d825758e5b4ca7b69f5a02d9a56, type: 3}
+  tokenCollectAudio: {fileID: 8300000, guid: 793302cb659188e4099193a1059a8eef, type: 3}
   randomAnimationStartTime: 1
   idleAnimation:
   - {fileID: 21300000, guid: c36b0e54a8d8340759ab2f1394787f1f, type: 3}
@@ -98297,7 +98297,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 92e2dcc1fb4364cdf887c66f39f76f82, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  tokenCollectAudio: {fileID: 8300000, guid: bf527d825758e5b4ca7b69f5a02d9a56, type: 3}
+  tokenCollectAudio: {fileID: 8300000, guid: 793302cb659188e4099193a1059a8eef, type: 3}
   randomAnimationStartTime: 1
   idleAnimation:
   - {fileID: 21300000, guid: c36b0e54a8d8340759ab2f1394787f1f, type: 3}
@@ -98465,7 +98465,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 92e2dcc1fb4364cdf887c66f39f76f82, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  tokenCollectAudio: {fileID: 8300000, guid: bf527d825758e5b4ca7b69f5a02d9a56, type: 3}
+  tokenCollectAudio: {fileID: 8300000, guid: 793302cb659188e4099193a1059a8eef, type: 3}
   randomAnimationStartTime: 1
   idleAnimation:
   - {fileID: 21300000, guid: c36b0e54a8d8340759ab2f1394787f1f, type: 3}
@@ -98645,7 +98645,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 92e2dcc1fb4364cdf887c66f39f76f82, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  tokenCollectAudio: {fileID: 8300000, guid: bf527d825758e5b4ca7b69f5a02d9a56, type: 3}
+  tokenCollectAudio: {fileID: 8300000, guid: 793302cb659188e4099193a1059a8eef, type: 3}
   randomAnimationStartTime: 1
   idleAnimation:
   - {fileID: 21300000, guid: c36b0e54a8d8340759ab2f1394787f1f, type: 3}
@@ -101736,7 +101736,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 92e2dcc1fb4364cdf887c66f39f76f82, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  tokenCollectAudio: {fileID: 8300000, guid: bf527d825758e5b4ca7b69f5a02d9a56, type: 3}
+  tokenCollectAudio: {fileID: 8300000, guid: 793302cb659188e4099193a1059a8eef, type: 3}
   randomAnimationStartTime: 1
   idleAnimation:
   - {fileID: 21300000, guid: c36b0e54a8d8340759ab2f1394787f1f, type: 3}
@@ -101903,7 +101903,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 92e2dcc1fb4364cdf887c66f39f76f82, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  tokenCollectAudio: {fileID: 8300000, guid: bf527d825758e5b4ca7b69f5a02d9a56, type: 3}
+  tokenCollectAudio: {fileID: 8300000, guid: 793302cb659188e4099193a1059a8eef, type: 3}
   randomAnimationStartTime: 1
   idleAnimation:
   - {fileID: 21300000, guid: c36b0e54a8d8340759ab2f1394787f1f, type: 3}
@@ -102076,7 +102076,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 92e2dcc1fb4364cdf887c66f39f76f82, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  tokenCollectAudio: {fileID: 8300000, guid: bf527d825758e5b4ca7b69f5a02d9a56, type: 3}
+  tokenCollectAudio: {fileID: 8300000, guid: 793302cb659188e4099193a1059a8eef, type: 3}
   randomAnimationStartTime: 1
   idleAnimation:
   - {fileID: 21300000, guid: c36b0e54a8d8340759ab2f1394787f1f, type: 3}
@@ -102331,7 +102331,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 92e2dcc1fb4364cdf887c66f39f76f82, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  tokenCollectAudio: {fileID: 8300000, guid: bf527d825758e5b4ca7b69f5a02d9a56, type: 3}
+  tokenCollectAudio: {fileID: 8300000, guid: 793302cb659188e4099193a1059a8eef, type: 3}
   randomAnimationStartTime: 1
   idleAnimation:
   - {fileID: 21300000, guid: c36b0e54a8d8340759ab2f1394787f1f, type: 3}
@@ -102498,7 +102498,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 92e2dcc1fb4364cdf887c66f39f76f82, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  tokenCollectAudio: {fileID: 8300000, guid: bf527d825758e5b4ca7b69f5a02d9a56, type: 3}
+  tokenCollectAudio: {fileID: 8300000, guid: 793302cb659188e4099193a1059a8eef, type: 3}
   randomAnimationStartTime: 1
   idleAnimation:
   - {fileID: 21300000, guid: c36b0e54a8d8340759ab2f1394787f1f, type: 3}
@@ -102857,6 +102857,21 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 114230831923080080, guid: 7d60c822c3f1b408ea7a00ecdb5e047a,
+        type: 3}
+      propertyPath: jumpAudio
+      value: 
+      objectReference: {fileID: 8300000, guid: 1bbde01fa110b7c4cb57636ccea14a33, type: 3}
+    - target: {fileID: 114230831923080080, guid: 7d60c822c3f1b408ea7a00ecdb5e047a,
+        type: 3}
+      propertyPath: ouchAudio
+      value: 
+      objectReference: {fileID: 8300000, guid: ee68e1e3f16e195419e69e52691a9f9c, type: 3}
+    - target: {fileID: 114230831923080080, guid: 7d60c822c3f1b408ea7a00ecdb5e047a,
+        type: 3}
+      propertyPath: respawnAudio
+      value: 
+      objectReference: {fileID: 8300000, guid: ee68e1e3f16e195419e69e52691a9f9c, type: 3}
     - target: {fileID: 212064061491315838, guid: 7d60c822c3f1b408ea7a00ecdb5e047a,
         type: 3}
       propertyPath: m_Color.b
@@ -102871,6 +102886,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Color.r
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8509783501685719824, guid: 7d60c822c3f1b408ea7a00ecdb5e047a,
+        type: 3}
+      propertyPath: m_Volume
+      value: 0.077
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -102958,7 +102978,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 92e2dcc1fb4364cdf887c66f39f76f82, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  tokenCollectAudio: {fileID: 8300000, guid: bf527d825758e5b4ca7b69f5a02d9a56, type: 3}
+  tokenCollectAudio: {fileID: 8300000, guid: 793302cb659188e4099193a1059a8eef, type: 3}
   randomAnimationStartTime: 1
   idleAnimation:
   - {fileID: 21300000, guid: c36b0e54a8d8340759ab2f1394787f1f, type: 3}
@@ -103125,7 +103145,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 92e2dcc1fb4364cdf887c66f39f76f82, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  tokenCollectAudio: {fileID: 8300000, guid: bf527d825758e5b4ca7b69f5a02d9a56, type: 3}
+  tokenCollectAudio: {fileID: 8300000, guid: 793302cb659188e4099193a1059a8eef, type: 3}
   randomAnimationStartTime: 1
   idleAnimation:
   - {fileID: 21300000, guid: c36b0e54a8d8340759ab2f1394787f1f, type: 3}
@@ -103292,7 +103312,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 92e2dcc1fb4364cdf887c66f39f76f82, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  tokenCollectAudio: {fileID: 8300000, guid: bf527d825758e5b4ca7b69f5a02d9a56, type: 3}
+  tokenCollectAudio: {fileID: 8300000, guid: 793302cb659188e4099193a1059a8eef, type: 3}
   randomAnimationStartTime: 1
   idleAnimation:
   - {fileID: 21300000, guid: c36b0e54a8d8340759ab2f1394787f1f, type: 3}
@@ -103517,7 +103537,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 92e2dcc1fb4364cdf887c66f39f76f82, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  tokenCollectAudio: {fileID: 8300000, guid: bf527d825758e5b4ca7b69f5a02d9a56, type: 3}
+  tokenCollectAudio: {fileID: 8300000, guid: 793302cb659188e4099193a1059a8eef, type: 3}
   randomAnimationStartTime: 1
   idleAnimation:
   - {fileID: 21300000, guid: c36b0e54a8d8340759ab2f1394787f1f, type: 3}
@@ -103684,7 +103704,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 92e2dcc1fb4364cdf887c66f39f76f82, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  tokenCollectAudio: {fileID: 8300000, guid: bf527d825758e5b4ca7b69f5a02d9a56, type: 3}
+  tokenCollectAudio: {fileID: 8300000, guid: 793302cb659188e4099193a1059a8eef, type: 3}
   randomAnimationStartTime: 1
   idleAnimation:
   - {fileID: 21300000, guid: c36b0e54a8d8340759ab2f1394787f1f, type: 3}
@@ -103857,7 +103877,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 92e2dcc1fb4364cdf887c66f39f76f82, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  tokenCollectAudio: {fileID: 8300000, guid: bf527d825758e5b4ca7b69f5a02d9a56, type: 3}
+  tokenCollectAudio: {fileID: 8300000, guid: 793302cb659188e4099193a1059a8eef, type: 3}
   randomAnimationStartTime: 1
   idleAnimation:
   - {fileID: 21300000, guid: c36b0e54a8d8340759ab2f1394787f1f, type: 3}
@@ -104024,7 +104044,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 92e2dcc1fb4364cdf887c66f39f76f82, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  tokenCollectAudio: {fileID: 8300000, guid: bf527d825758e5b4ca7b69f5a02d9a56, type: 3}
+  tokenCollectAudio: {fileID: 8300000, guid: 793302cb659188e4099193a1059a8eef, type: 3}
   randomAnimationStartTime: 1
   idleAnimation:
   - {fileID: 21300000, guid: c36b0e54a8d8340759ab2f1394787f1f, type: 3}
@@ -104197,7 +104217,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 92e2dcc1fb4364cdf887c66f39f76f82, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  tokenCollectAudio: {fileID: 8300000, guid: bf527d825758e5b4ca7b69f5a02d9a56, type: 3}
+  tokenCollectAudio: {fileID: 8300000, guid: 793302cb659188e4099193a1059a8eef, type: 3}
   randomAnimationStartTime: 1
   idleAnimation:
   - {fileID: 21300000, guid: c36b0e54a8d8340759ab2f1394787f1f, type: 3}
@@ -104364,7 +104384,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 92e2dcc1fb4364cdf887c66f39f76f82, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  tokenCollectAudio: {fileID: 8300000, guid: bf527d825758e5b4ca7b69f5a02d9a56, type: 3}
+  tokenCollectAudio: {fileID: 8300000, guid: 793302cb659188e4099193a1059a8eef, type: 3}
   randomAnimationStartTime: 1
   idleAnimation:
   - {fileID: 21300000, guid: c36b0e54a8d8340759ab2f1394787f1f, type: 3}
@@ -104773,7 +104793,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 92e2dcc1fb4364cdf887c66f39f76f82, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  tokenCollectAudio: {fileID: 8300000, guid: bf527d825758e5b4ca7b69f5a02d9a56, type: 3}
+  tokenCollectAudio: {fileID: 8300000, guid: 793302cb659188e4099193a1059a8eef, type: 3}
   randomAnimationStartTime: 1
   idleAnimation:
   - {fileID: 21300000, guid: c36b0e54a8d8340759ab2f1394787f1f, type: 3}
@@ -104940,7 +104960,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 92e2dcc1fb4364cdf887c66f39f76f82, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  tokenCollectAudio: {fileID: 8300000, guid: bf527d825758e5b4ca7b69f5a02d9a56, type: 3}
+  tokenCollectAudio: {fileID: 8300000, guid: 793302cb659188e4099193a1059a8eef, type: 3}
   randomAnimationStartTime: 1
   idleAnimation:
   - {fileID: 21300000, guid: c36b0e54a8d8340759ab2f1394787f1f, type: 3}
@@ -105107,7 +105127,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 92e2dcc1fb4364cdf887c66f39f76f82, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  tokenCollectAudio: {fileID: 8300000, guid: bf527d825758e5b4ca7b69f5a02d9a56, type: 3}
+  tokenCollectAudio: {fileID: 8300000, guid: 793302cb659188e4099193a1059a8eef, type: 3}
   randomAnimationStartTime: 1
   idleAnimation:
   - {fileID: 21300000, guid: c36b0e54a8d8340759ab2f1394787f1f, type: 3}
@@ -105274,7 +105294,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 92e2dcc1fb4364cdf887c66f39f76f82, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  tokenCollectAudio: {fileID: 8300000, guid: bf527d825758e5b4ca7b69f5a02d9a56, type: 3}
+  tokenCollectAudio: {fileID: 8300000, guid: 793302cb659188e4099193a1059a8eef, type: 3}
   randomAnimationStartTime: 1
   idleAnimation:
   - {fileID: 21300000, guid: c36b0e54a8d8340759ab2f1394787f1f, type: 3}
@@ -105638,7 +105658,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 92e2dcc1fb4364cdf887c66f39f76f82, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  tokenCollectAudio: {fileID: 8300000, guid: bf527d825758e5b4ca7b69f5a02d9a56, type: 3}
+  tokenCollectAudio: {fileID: 8300000, guid: 793302cb659188e4099193a1059a8eef, type: 3}
   randomAnimationStartTime: 1
   idleAnimation:
   - {fileID: 21300000, guid: c36b0e54a8d8340759ab2f1394787f1f, type: 3}
@@ -105805,7 +105825,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 92e2dcc1fb4364cdf887c66f39f76f82, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  tokenCollectAudio: {fileID: 8300000, guid: bf527d825758e5b4ca7b69f5a02d9a56, type: 3}
+  tokenCollectAudio: {fileID: 8300000, guid: 793302cb659188e4099193a1059a8eef, type: 3}
   randomAnimationStartTime: 1
   idleAnimation:
   - {fileID: 21300000, guid: c36b0e54a8d8340759ab2f1394787f1f, type: 3}
@@ -105972,7 +105992,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 92e2dcc1fb4364cdf887c66f39f76f82, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  tokenCollectAudio: {fileID: 8300000, guid: bf527d825758e5b4ca7b69f5a02d9a56, type: 3}
+  tokenCollectAudio: {fileID: 8300000, guid: 793302cb659188e4099193a1059a8eef, type: 3}
   randomAnimationStartTime: 1
   idleAnimation:
   - {fileID: 21300000, guid: c36b0e54a8d8340759ab2f1394787f1f, type: 3}
@@ -106145,7 +106165,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 92e2dcc1fb4364cdf887c66f39f76f82, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  tokenCollectAudio: {fileID: 8300000, guid: bf527d825758e5b4ca7b69f5a02d9a56, type: 3}
+  tokenCollectAudio: {fileID: 8300000, guid: 793302cb659188e4099193a1059a8eef, type: 3}
   randomAnimationStartTime: 1
   idleAnimation:
   - {fileID: 21300000, guid: c36b0e54a8d8340759ab2f1394787f1f, type: 3}
@@ -106412,7 +106432,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 92e2dcc1fb4364cdf887c66f39f76f82, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  tokenCollectAudio: {fileID: 8300000, guid: bf527d825758e5b4ca7b69f5a02d9a56, type: 3}
+  tokenCollectAudio: {fileID: 8300000, guid: 793302cb659188e4099193a1059a8eef, type: 3}
   randomAnimationStartTime: 1
   idleAnimation:
   - {fileID: 21300000, guid: c36b0e54a8d8340759ab2f1394787f1f, type: 3}
@@ -106579,7 +106599,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 92e2dcc1fb4364cdf887c66f39f76f82, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  tokenCollectAudio: {fileID: 8300000, guid: bf527d825758e5b4ca7b69f5a02d9a56, type: 3}
+  tokenCollectAudio: {fileID: 8300000, guid: 793302cb659188e4099193a1059a8eef, type: 3}
   randomAnimationStartTime: 1
   idleAnimation:
   - {fileID: 21300000, guid: c36b0e54a8d8340759ab2f1394787f1f, type: 3}
@@ -106746,7 +106766,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 92e2dcc1fb4364cdf887c66f39f76f82, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  tokenCollectAudio: {fileID: 8300000, guid: bf527d825758e5b4ca7b69f5a02d9a56, type: 3}
+  tokenCollectAudio: {fileID: 8300000, guid: 793302cb659188e4099193a1059a8eef, type: 3}
   randomAnimationStartTime: 1
   idleAnimation:
   - {fileID: 21300000, guid: c36b0e54a8d8340759ab2f1394787f1f, type: 3}
@@ -106913,7 +106933,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 92e2dcc1fb4364cdf887c66f39f76f82, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  tokenCollectAudio: {fileID: 8300000, guid: bf527d825758e5b4ca7b69f5a02d9a56, type: 3}
+  tokenCollectAudio: {fileID: 8300000, guid: 793302cb659188e4099193a1059a8eef, type: 3}
   randomAnimationStartTime: 1
   idleAnimation:
   - {fileID: 21300000, guid: c36b0e54a8d8340759ab2f1394787f1f, type: 3}
@@ -107148,7 +107168,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 92e2dcc1fb4364cdf887c66f39f76f82, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  tokenCollectAudio: {fileID: 8300000, guid: bf527d825758e5b4ca7b69f5a02d9a56, type: 3}
+  tokenCollectAudio: {fileID: 8300000, guid: 793302cb659188e4099193a1059a8eef, type: 3}
   randomAnimationStartTime: 1
   idleAnimation:
   - {fileID: 21300000, guid: c36b0e54a8d8340759ab2f1394787f1f, type: 3}
@@ -107315,7 +107335,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 92e2dcc1fb4364cdf887c66f39f76f82, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  tokenCollectAudio: {fileID: 8300000, guid: bf527d825758e5b4ca7b69f5a02d9a56, type: 3}
+  tokenCollectAudio: {fileID: 8300000, guid: 793302cb659188e4099193a1059a8eef, type: 3}
   randomAnimationStartTime: 1
   idleAnimation:
   - {fileID: 21300000, guid: c36b0e54a8d8340759ab2f1394787f1f, type: 3}
@@ -107482,7 +107502,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 92e2dcc1fb4364cdf887c66f39f76f82, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  tokenCollectAudio: {fileID: 8300000, guid: bf527d825758e5b4ca7b69f5a02d9a56, type: 3}
+  tokenCollectAudio: {fileID: 8300000, guid: 793302cb659188e4099193a1059a8eef, type: 3}
   randomAnimationStartTime: 1
   idleAnimation:
   - {fileID: 21300000, guid: c36b0e54a8d8340759ab2f1394787f1f, type: 3}
@@ -107649,7 +107669,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 92e2dcc1fb4364cdf887c66f39f76f82, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  tokenCollectAudio: {fileID: 8300000, guid: bf527d825758e5b4ca7b69f5a02d9a56, type: 3}
+  tokenCollectAudio: {fileID: 8300000, guid: 793302cb659188e4099193a1059a8eef, type: 3}
   randomAnimationStartTime: 1
   idleAnimation:
   - {fileID: 21300000, guid: c36b0e54a8d8340759ab2f1394787f1f, type: 3}
@@ -108566,7 +108586,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 92e2dcc1fb4364cdf887c66f39f76f82, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  tokenCollectAudio: {fileID: 8300000, guid: bf527d825758e5b4ca7b69f5a02d9a56, type: 3}
+  tokenCollectAudio: {fileID: 8300000, guid: 793302cb659188e4099193a1059a8eef, type: 3}
   randomAnimationStartTime: 1
   idleAnimation:
   - {fileID: 21300000, guid: c36b0e54a8d8340759ab2f1394787f1f, type: 3}
@@ -108733,7 +108753,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 92e2dcc1fb4364cdf887c66f39f76f82, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  tokenCollectAudio: {fileID: 8300000, guid: bf527d825758e5b4ca7b69f5a02d9a56, type: 3}
+  tokenCollectAudio: {fileID: 8300000, guid: 793302cb659188e4099193a1059a8eef, type: 3}
   randomAnimationStartTime: 1
   idleAnimation:
   - {fileID: 21300000, guid: c36b0e54a8d8340759ab2f1394787f1f, type: 3}
@@ -108900,7 +108920,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 92e2dcc1fb4364cdf887c66f39f76f82, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  tokenCollectAudio: {fileID: 8300000, guid: bf527d825758e5b4ca7b69f5a02d9a56, type: 3}
+  tokenCollectAudio: {fileID: 8300000, guid: 793302cb659188e4099193a1059a8eef, type: 3}
   randomAnimationStartTime: 1
   idleAnimation:
   - {fileID: 21300000, guid: c36b0e54a8d8340759ab2f1394787f1f, type: 3}
@@ -109067,7 +109087,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 92e2dcc1fb4364cdf887c66f39f76f82, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  tokenCollectAudio: {fileID: 8300000, guid: bf527d825758e5b4ca7b69f5a02d9a56, type: 3}
+  tokenCollectAudio: {fileID: 8300000, guid: 793302cb659188e4099193a1059a8eef, type: 3}
   randomAnimationStartTime: 1
   idleAnimation:
   - {fileID: 21300000, guid: c36b0e54a8d8340759ab2f1394787f1f, type: 3}
@@ -109234,7 +109254,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 92e2dcc1fb4364cdf887c66f39f76f82, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  tokenCollectAudio: {fileID: 8300000, guid: bf527d825758e5b4ca7b69f5a02d9a56, type: 3}
+  tokenCollectAudio: {fileID: 8300000, guid: 793302cb659188e4099193a1059a8eef, type: 3}
   randomAnimationStartTime: 1
   idleAnimation:
   - {fileID: 21300000, guid: c36b0e54a8d8340759ab2f1394787f1f, type: 3}
@@ -109401,7 +109421,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 92e2dcc1fb4364cdf887c66f39f76f82, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  tokenCollectAudio: {fileID: 8300000, guid: bf527d825758e5b4ca7b69f5a02d9a56, type: 3}
+  tokenCollectAudio: {fileID: 8300000, guid: 793302cb659188e4099193a1059a8eef, type: 3}
   randomAnimationStartTime: 1
   idleAnimation:
   - {fileID: 21300000, guid: c36b0e54a8d8340759ab2f1394787f1f, type: 3}
@@ -109568,7 +109588,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 92e2dcc1fb4364cdf887c66f39f76f82, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  tokenCollectAudio: {fileID: 8300000, guid: bf527d825758e5b4ca7b69f5a02d9a56, type: 3}
+  tokenCollectAudio: {fileID: 8300000, guid: 793302cb659188e4099193a1059a8eef, type: 3}
   randomAnimationStartTime: 1
   idleAnimation:
   - {fileID: 21300000, guid: c36b0e54a8d8340759ab2f1394787f1f, type: 3}
@@ -109735,7 +109755,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 92e2dcc1fb4364cdf887c66f39f76f82, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  tokenCollectAudio: {fileID: 8300000, guid: bf527d825758e5b4ca7b69f5a02d9a56, type: 3}
+  tokenCollectAudio: {fileID: 8300000, guid: 793302cb659188e4099193a1059a8eef, type: 3}
   randomAnimationStartTime: 1
   idleAnimation:
   - {fileID: 21300000, guid: c36b0e54a8d8340759ab2f1394787f1f, type: 3}
@@ -109887,7 +109907,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 92e2dcc1fb4364cdf887c66f39f76f82, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  tokenCollectAudio: {fileID: 8300000, guid: bf527d825758e5b4ca7b69f5a02d9a56, type: 3}
+  tokenCollectAudio: {fileID: 8300000, guid: 793302cb659188e4099193a1059a8eef, type: 3}
   randomAnimationStartTime: 1
   idleAnimation:
   - {fileID: 21300000, guid: c36b0e54a8d8340759ab2f1394787f1f, type: 3}
@@ -110115,7 +110135,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 92e2dcc1fb4364cdf887c66f39f76f82, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  tokenCollectAudio: {fileID: 8300000, guid: bf527d825758e5b4ca7b69f5a02d9a56, type: 3}
+  tokenCollectAudio: {fileID: 8300000, guid: 793302cb659188e4099193a1059a8eef, type: 3}
   randomAnimationStartTime: 1
   idleAnimation:
   - {fileID: 21300000, guid: c36b0e54a8d8340759ab2f1394787f1f, type: 3}
@@ -110282,7 +110302,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 92e2dcc1fb4364cdf887c66f39f76f82, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  tokenCollectAudio: {fileID: 8300000, guid: bf527d825758e5b4ca7b69f5a02d9a56, type: 3}
+  tokenCollectAudio: {fileID: 8300000, guid: 793302cb659188e4099193a1059a8eef, type: 3}
   randomAnimationStartTime: 1
   idleAnimation:
   - {fileID: 21300000, guid: c36b0e54a8d8340759ab2f1394787f1f, type: 3}
@@ -110656,7 +110676,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 92e2dcc1fb4364cdf887c66f39f76f82, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  tokenCollectAudio: {fileID: 8300000, guid: bf527d825758e5b4ca7b69f5a02d9a56, type: 3}
+  tokenCollectAudio: {fileID: 8300000, guid: 793302cb659188e4099193a1059a8eef, type: 3}
   randomAnimationStartTime: 1
   idleAnimation:
   - {fileID: 21300000, guid: c36b0e54a8d8340759ab2f1394787f1f, type: 3}
@@ -110869,7 +110889,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 92e2dcc1fb4364cdf887c66f39f76f82, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  tokenCollectAudio: {fileID: 8300000, guid: bf527d825758e5b4ca7b69f5a02d9a56, type: 3}
+  tokenCollectAudio: {fileID: 8300000, guid: 793302cb659188e4099193a1059a8eef, type: 3}
   randomAnimationStartTime: 1
   idleAnimation:
   - {fileID: 21300000, guid: c36b0e54a8d8340759ab2f1394787f1f, type: 3}
@@ -111042,7 +111062,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 92e2dcc1fb4364cdf887c66f39f76f82, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  tokenCollectAudio: {fileID: 8300000, guid: bf527d825758e5b4ca7b69f5a02d9a56, type: 3}
+  tokenCollectAudio: {fileID: 8300000, guid: 793302cb659188e4099193a1059a8eef, type: 3}
   randomAnimationStartTime: 1
   idleAnimation:
   - {fileID: 21300000, guid: c36b0e54a8d8340759ab2f1394787f1f, type: 3}
@@ -111209,7 +111229,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 92e2dcc1fb4364cdf887c66f39f76f82, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  tokenCollectAudio: {fileID: 8300000, guid: bf527d825758e5b4ca7b69f5a02d9a56, type: 3}
+  tokenCollectAudio: {fileID: 8300000, guid: 793302cb659188e4099193a1059a8eef, type: 3}
   randomAnimationStartTime: 1
   idleAnimation:
   - {fileID: 21300000, guid: c36b0e54a8d8340759ab2f1394787f1f, type: 3}
@@ -111376,7 +111396,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 92e2dcc1fb4364cdf887c66f39f76f82, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  tokenCollectAudio: {fileID: 8300000, guid: bf527d825758e5b4ca7b69f5a02d9a56, type: 3}
+  tokenCollectAudio: {fileID: 8300000, guid: 793302cb659188e4099193a1059a8eef, type: 3}
   randomAnimationStartTime: 1
   idleAnimation:
   - {fileID: 21300000, guid: c36b0e54a8d8340759ab2f1394787f1f, type: 3}
@@ -111611,7 +111631,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 92e2dcc1fb4364cdf887c66f39f76f82, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  tokenCollectAudio: {fileID: 8300000, guid: bf527d825758e5b4ca7b69f5a02d9a56, type: 3}
+  tokenCollectAudio: {fileID: 8300000, guid: 793302cb659188e4099193a1059a8eef, type: 3}
   randomAnimationStartTime: 1
   idleAnimation:
   - {fileID: 21300000, guid: c36b0e54a8d8340759ab2f1394787f1f, type: 3}
@@ -111778,7 +111798,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 92e2dcc1fb4364cdf887c66f39f76f82, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  tokenCollectAudio: {fileID: 8300000, guid: bf527d825758e5b4ca7b69f5a02d9a56, type: 3}
+  tokenCollectAudio: {fileID: 8300000, guid: 793302cb659188e4099193a1059a8eef, type: 3}
   randomAnimationStartTime: 1
   idleAnimation:
   - {fileID: 21300000, guid: c36b0e54a8d8340759ab2f1394787f1f, type: 3}
@@ -111945,7 +111965,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 92e2dcc1fb4364cdf887c66f39f76f82, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  tokenCollectAudio: {fileID: 8300000, guid: bf527d825758e5b4ca7b69f5a02d9a56, type: 3}
+  tokenCollectAudio: {fileID: 8300000, guid: 793302cb659188e4099193a1059a8eef, type: 3}
   randomAnimationStartTime: 1
   idleAnimation:
   - {fileID: 21300000, guid: c36b0e54a8d8340759ab2f1394787f1f, type: 3}
@@ -112118,7 +112138,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 92e2dcc1fb4364cdf887c66f39f76f82, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  tokenCollectAudio: {fileID: 8300000, guid: bf527d825758e5b4ca7b69f5a02d9a56, type: 3}
+  tokenCollectAudio: {fileID: 8300000, guid: 793302cb659188e4099193a1059a8eef, type: 3}
   randomAnimationStartTime: 1
   idleAnimation:
   - {fileID: 21300000, guid: c36b0e54a8d8340759ab2f1394787f1f, type: 3}
@@ -112332,9 +112352,9 @@ AudioSource:
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 0}
-  m_Resource: {fileID: 8300000, guid: 5833894e2899f1840ac04193ca462e39, type: 3}
+  m_Resource: {fileID: 8300000, guid: 00a94d14cada10c4ebd04c1beec62a54, type: 3}
   m_PlayOnAwake: 1
-  m_Volume: 0.025
+  m_Volume: 0.038
   m_Pitch: 1
   Loop: 1
   Mute: 0
@@ -112464,7 +112484,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 92e2dcc1fb4364cdf887c66f39f76f82, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  tokenCollectAudio: {fileID: 8300000, guid: bf527d825758e5b4ca7b69f5a02d9a56, type: 3}
+  tokenCollectAudio: {fileID: 8300000, guid: 793302cb659188e4099193a1059a8eef, type: 3}
   randomAnimationStartTime: 1
   idleAnimation:
   - {fileID: 21300000, guid: c36b0e54a8d8340759ab2f1394787f1f, type: 3}
@@ -112677,7 +112697,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 92e2dcc1fb4364cdf887c66f39f76f82, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  tokenCollectAudio: {fileID: 8300000, guid: bf527d825758e5b4ca7b69f5a02d9a56, type: 3}
+  tokenCollectAudio: {fileID: 8300000, guid: 793302cb659188e4099193a1059a8eef, type: 3}
   randomAnimationStartTime: 1
   idleAnimation:
   - {fileID: 21300000, guid: c36b0e54a8d8340759ab2f1394787f1f, type: 3}
@@ -112844,7 +112864,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 92e2dcc1fb4364cdf887c66f39f76f82, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  tokenCollectAudio: {fileID: 8300000, guid: bf527d825758e5b4ca7b69f5a02d9a56, type: 3}
+  tokenCollectAudio: {fileID: 8300000, guid: 793302cb659188e4099193a1059a8eef, type: 3}
   randomAnimationStartTime: 1
   idleAnimation:
   - {fileID: 21300000, guid: c36b0e54a8d8340759ab2f1394787f1f, type: 3}
@@ -114396,7 +114416,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 92e2dcc1fb4364cdf887c66f39f76f82, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  tokenCollectAudio: {fileID: 8300000, guid: bf527d825758e5b4ca7b69f5a02d9a56, type: 3}
+  tokenCollectAudio: {fileID: 8300000, guid: 793302cb659188e4099193a1059a8eef, type: 3}
   randomAnimationStartTime: 1
   idleAnimation:
   - {fileID: 21300000, guid: c36b0e54a8d8340759ab2f1394787f1f, type: 3}
@@ -114563,7 +114583,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 92e2dcc1fb4364cdf887c66f39f76f82, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  tokenCollectAudio: {fileID: 8300000, guid: bf527d825758e5b4ca7b69f5a02d9a56, type: 3}
+  tokenCollectAudio: {fileID: 8300000, guid: 793302cb659188e4099193a1059a8eef, type: 3}
   randomAnimationStartTime: 1
   idleAnimation:
   - {fileID: 21300000, guid: c36b0e54a8d8340759ab2f1394787f1f, type: 3}
@@ -114818,7 +114838,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 92e2dcc1fb4364cdf887c66f39f76f82, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  tokenCollectAudio: {fileID: 8300000, guid: bf527d825758e5b4ca7b69f5a02d9a56, type: 3}
+  tokenCollectAudio: {fileID: 8300000, guid: 793302cb659188e4099193a1059a8eef, type: 3}
   randomAnimationStartTime: 1
   idleAnimation:
   - {fileID: 21300000, guid: c36b0e54a8d8340759ab2f1394787f1f, type: 3}
@@ -114985,7 +115005,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 92e2dcc1fb4364cdf887c66f39f76f82, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  tokenCollectAudio: {fileID: 8300000, guid: bf527d825758e5b4ca7b69f5a02d9a56, type: 3}
+  tokenCollectAudio: {fileID: 8300000, guid: 793302cb659188e4099193a1059a8eef, type: 3}
   randomAnimationStartTime: 1
   idleAnimation:
   - {fileID: 21300000, guid: c36b0e54a8d8340759ab2f1394787f1f, type: 3}
@@ -115152,7 +115172,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 92e2dcc1fb4364cdf887c66f39f76f82, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  tokenCollectAudio: {fileID: 8300000, guid: bf527d825758e5b4ca7b69f5a02d9a56, type: 3}
+  tokenCollectAudio: {fileID: 8300000, guid: 793302cb659188e4099193a1059a8eef, type: 3}
   randomAnimationStartTime: 1
   idleAnimation:
   - {fileID: 21300000, guid: c36b0e54a8d8340759ab2f1394787f1f, type: 3}
@@ -115615,7 +115635,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 92e2dcc1fb4364cdf887c66f39f76f82, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  tokenCollectAudio: {fileID: 8300000, guid: bf527d825758e5b4ca7b69f5a02d9a56, type: 3}
+  tokenCollectAudio: {fileID: 8300000, guid: 793302cb659188e4099193a1059a8eef, type: 3}
   randomAnimationStartTime: 1
   idleAnimation:
   - {fileID: 21300000, guid: c36b0e54a8d8340759ab2f1394787f1f, type: 3}
@@ -115782,7 +115802,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 92e2dcc1fb4364cdf887c66f39f76f82, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  tokenCollectAudio: {fileID: 8300000, guid: bf527d825758e5b4ca7b69f5a02d9a56, type: 3}
+  tokenCollectAudio: {fileID: 8300000, guid: 793302cb659188e4099193a1059a8eef, type: 3}
   randomAnimationStartTime: 1
   idleAnimation:
   - {fileID: 21300000, guid: c36b0e54a8d8340759ab2f1394787f1f, type: 3}
@@ -116077,7 +116097,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 92e2dcc1fb4364cdf887c66f39f76f82, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  tokenCollectAudio: {fileID: 8300000, guid: bf527d825758e5b4ca7b69f5a02d9a56, type: 3}
+  tokenCollectAudio: {fileID: 8300000, guid: 793302cb659188e4099193a1059a8eef, type: 3}
   randomAnimationStartTime: 1
   idleAnimation:
   - {fileID: 21300000, guid: c36b0e54a8d8340759ab2f1394787f1f, type: 3}
@@ -116368,7 +116388,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 92e2dcc1fb4364cdf887c66f39f76f82, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  tokenCollectAudio: {fileID: 8300000, guid: bf527d825758e5b4ca7b69f5a02d9a56, type: 3}
+  tokenCollectAudio: {fileID: 8300000, guid: 793302cb659188e4099193a1059a8eef, type: 3}
   randomAnimationStartTime: 1
   idleAnimation:
   - {fileID: 21300000, guid: c36b0e54a8d8340759ab2f1394787f1f, type: 3}
@@ -116535,7 +116555,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 92e2dcc1fb4364cdf887c66f39f76f82, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  tokenCollectAudio: {fileID: 8300000, guid: bf527d825758e5b4ca7b69f5a02d9a56, type: 3}
+  tokenCollectAudio: {fileID: 8300000, guid: 793302cb659188e4099193a1059a8eef, type: 3}
   randomAnimationStartTime: 1
   idleAnimation:
   - {fileID: 21300000, guid: c36b0e54a8d8340759ab2f1394787f1f, type: 3}
@@ -116702,7 +116722,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 92e2dcc1fb4364cdf887c66f39f76f82, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  tokenCollectAudio: {fileID: 8300000, guid: bf527d825758e5b4ca7b69f5a02d9a56, type: 3}
+  tokenCollectAudio: {fileID: 8300000, guid: 793302cb659188e4099193a1059a8eef, type: 3}
   randomAnimationStartTime: 1
   idleAnimation:
   - {fileID: 21300000, guid: c36b0e54a8d8340759ab2f1394787f1f, type: 3}
@@ -116869,7 +116889,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 92e2dcc1fb4364cdf887c66f39f76f82, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  tokenCollectAudio: {fileID: 8300000, guid: bf527d825758e5b4ca7b69f5a02d9a56, type: 3}
+  tokenCollectAudio: {fileID: 8300000, guid: 793302cb659188e4099193a1059a8eef, type: 3}
   randomAnimationStartTime: 1
   idleAnimation:
   - {fileID: 21300000, guid: c36b0e54a8d8340759ab2f1394787f1f, type: 3}
@@ -117221,7 +117241,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 92e2dcc1fb4364cdf887c66f39f76f82, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  tokenCollectAudio: {fileID: 8300000, guid: bf527d825758e5b4ca7b69f5a02d9a56, type: 3}
+  tokenCollectAudio: {fileID: 8300000, guid: 793302cb659188e4099193a1059a8eef, type: 3}
   randomAnimationStartTime: 1
   idleAnimation:
   - {fileID: 21300000, guid: c36b0e54a8d8340759ab2f1394787f1f, type: 3}
@@ -117394,7 +117414,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 92e2dcc1fb4364cdf887c66f39f76f82, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  tokenCollectAudio: {fileID: 8300000, guid: bf527d825758e5b4ca7b69f5a02d9a56, type: 3}
+  tokenCollectAudio: {fileID: 8300000, guid: 793302cb659188e4099193a1059a8eef, type: 3}
   randomAnimationStartTime: 1
   idleAnimation:
   - {fileID: 21300000, guid: c36b0e54a8d8340759ab2f1394787f1f, type: 3}
@@ -117573,7 +117593,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 92e2dcc1fb4364cdf887c66f39f76f82, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  tokenCollectAudio: {fileID: 8300000, guid: bf527d825758e5b4ca7b69f5a02d9a56, type: 3}
+  tokenCollectAudio: {fileID: 8300000, guid: 793302cb659188e4099193a1059a8eef, type: 3}
   randomAnimationStartTime: 1
   idleAnimation:
   - {fileID: 21300000, guid: c36b0e54a8d8340759ab2f1394787f1f, type: 3}
@@ -117740,7 +117760,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 92e2dcc1fb4364cdf887c66f39f76f82, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  tokenCollectAudio: {fileID: 8300000, guid: bf527d825758e5b4ca7b69f5a02d9a56, type: 3}
+  tokenCollectAudio: {fileID: 8300000, guid: 793302cb659188e4099193a1059a8eef, type: 3}
   randomAnimationStartTime: 1
   idleAnimation:
   - {fileID: 21300000, guid: c36b0e54a8d8340759ab2f1394787f1f, type: 3}
